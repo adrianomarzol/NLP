@@ -1,0 +1,1651 @@
+i had the Impression, that playing campfire in a 'Reverse mode', makes more sense:
+
+so everyone starts with the blue side, and if your hiker visits another one, turn it on the red side - for having a good time with the other hiker.
+
+and at the end of the Tour, your hiker remembers, that he has forgotten to extinguish the fire, and then it is turned to blue again.
+I agree that it makes sense thematically, but it might not be intuitive. I might give it a try though.
+for me - and maybe for Others too - it feels much less intuitive to 'carry around' a campfire, until it is used.
+
+but its only a Suggestion, of course
+Yes! I like it.
+i had the Impression, that playing campfire in a 'Reverse mode', makes more sense:
+
+so everyone starts with the blue side, and if your hiker visits another one, turn it on the red side - for having a good time with the other hiker.
+
+and at the end of the Tour, your hiker remembers, that he has forgotten to extinguish the fire, and then it is turned to blue again.
+THIS!
+
+Exactly what we thought last game night.
+Having played Parks a few times now at the 2 player count and having seen other peoples thoughts and comments about the 2 player experience, I thought it would be worth sharing a variant to tighten things up a bit without adding too much book keeping during the game.
+
+1. Introduce one Ranger of a neutral colour plus use only one log container of tokens (15 water, 15 sunshine, 8 forest, 8 mountains, 6 wildlife, 14 photos) to increase the risk of token shortages.
+
+2. The Ranger always moves last and moves either 1, 2 or 3 locations (roll a dice, 1or2 = 1space, 3or4 = 2 spaces, 5or6 =3 spaces). If the Ranger would land on another hiker it moves on to the next free location. It removes any weather pattern tokens on the location and places them on the Ranger Tracker card from the solo game (3 spaces for sun tokens and 3 spaces for water tokens). Players have to spend their campfire if they want to visit the same location as the Ranger.
+
+3. When the Ranger reaches the trail end nothing extra happens – it’s season is over and it waits for the start of the next season.
+
+4. When the Ranger Tracker card fills either the sun token row or the water token row the following happens: Sun token row - remove a random gear card (roll dice) and replace with a new one as normal. Water token row - remove a random park card (roll a dice) and replace with a new one as normal. Then return the relevant tokens to the supply. Tokens on unfinished lines on the Ranger Tracker card stay on the card even after seasons end – they are only removed when the row on the card is filled.
+
+See what you think - I've tried it a couple of times and it certainly makes the 2 player stroll through nature a little less relaxing - which may or may not be what you're looking for!
+Sounds like a nice implementation from the solo rules.
+
+You might also try instead of rolling a die, drawing a gear card for the ranger moment results using the sunshine per the solo rule. A quick look at the gear deck looks like there's nine 1 sunshine, eleven 2's fifteen 3's. I counted them fast but that's close.
+
+The gear card sunshine for ranger movement ala the solo rules could replace the current gear on the board or optionally place it at them bottom of the gear deck, no need to take the time to reshuffle at that point.
+
+You could use the solo rules for which slot the ranger ends up in at the trail end ala still using the multi-player side of the tile. so if he ends up in the top slot then the left parks card is removed and/or replaced (I prefer replaced and houserule that into the solo rules), middle slot the middle parks card, bottom slot the right card. if the ranger would eb the last one to the trail end he has no effect.
+Thought about using the gear cards for movement as in the solo game but didn’t want to mess too much with the gear deck in a multiplayer game (even though it’s only 2 players)- might give it a go though - it’d be nice to only use the stuff that comes in the box.
+yeah and I should have noted it'd probably add more to the difficulty since you might have your eye on gear and then it's gone just to move a ranger. that's true in a solo game but might make for some frustration in a 2 player game. worth a try.
+
+And it's an interesting way to streamline the ranger event tracker deck.
+Simple variant: your wildlife tokens do not count towards your token limit of 12.
+
+Gave it some tries. Now the "one for wildlife" trail site rises in values during resource-rich seasons. Getting a wildlife is still a tactical or situational play of course, as it is meant to be. The "wildlife or reserve" canteen sees some occasional uses as a wildlife instead of reservation. The binocular gear (take wildlife instead of printed resources) is still uninteresting to anybody.
+
+Thoughts?
+Interesting idea. What prompted this variant?
+Interesting idea. What prompted this variant?
+The intention is to give the wildlife some extra strategical importance, rather than just a tactical choice. Now, let's say in season 2, the wildlife tile and the 2-for-2 tile have appeared. This is a typical "resource-rich" season, where resources are abundant and scoring opportunities are lacking. Now, other than fighting for photos, players have one more options to convert to-be-discarded resources into points, namely, converting them into wildlife to be used in later seasons when "Lookout" tile comes up.
+
+In some of my latest plays of the base game, we even combine "Animals not in backpack" and the "Wildlove" rule in Nightfall (a wildlife counts as 2 when taking photos). The wildlife turns out to be even more interesting (to a point that the position of the wildlife tile will matter, though of course its importance can never overshadow the Lookout site and the River site), yet not OP. There is a delicate and hard-to-quantify balance between the speed of resource gathering and the extra capacity/flexibility enabled by wildlife, and which one is more important depends subtlely on the availability of tiles and their relative position.
+Sounds like I'll have to try it out.
+I'm fairly new to the game but I'm finding that during many sessions that one hiker (from each player) tends to go on ahead and may even reach the Trail end before his second hiker even moves one space. For a game that features 2 hikers per player I find this a little weird. Isn't the whole point of having two hikers is so that they can look out for one another instead of one 'recklessly' straying ahead to leave his companion behind? Would it be a better house rule to say that a player's hikers can only stray so far ahead before the companion has to catch up. Let's say hikers must stay within 3 spaces (4 spaces in a 4+ players game) of their companion at all times, would that be better?
+I think the ability to use different strategies for the hikers is part of what makes the game fun and challenging. The re-lighting of the campfire can be very helpful. No, the rules seem fine to me and I would not mess around with house ruling anything like you are suggesting.
+The best way of using your hikers is to move them to the most strategically-advantageous spot. Sometimes that means only taking one step. Sometimes that means grouping them close together. Sometimes one gets to the end before the first even moves.
+
+The hikers in the game do not "look out for one another," they gather resources and block other players. They can be close together or far apart...whatever is best in the current situation.
+
+So no, I don't see why you would create a house rule like that.
+Players are certainly free to house rule a game as they like. Personally, that's a neat thematic idea but doesn't work in practice due to the strategic nature of this game. It's also a bit of upkeep (tracking how many spaces between your hikers every time you take a turn) that I'd rather not have to do each turn. Maybe don't think of them as a hiking team but rather two separate hikers you control? Some games benefit from thematic rules like this, PARKS is not one of them.
+I've tramped quite a bit in New Zealand and sometimes we stick with other hikers, but if the area is well trodden we sometimes split up and go our own pace, meeting up in the hut or campsite later in the day.
+I think with this rule, there will be a lot of players who will be unable to move on a turn. If the campfire has been used, the front hiker is out in front of the back hiker, and the all of the spaces in front of the back hiker are full.
+Anyone have an idea for do more year in only one game?
+When I finish a year, I restart a game with another 4 seasons (without a 4 seasons's card used); but in a first setup I choose 2 year card before game start.
+I think this improve the gameplay respect only one year.
+For any advice or another idea, I'm here.
+Thanks at all, have a fun games.
+Play twice? Sorry I don't know how to make it last longer... But for our gaming group is fast and we typically play it twice... In most cases I will lose both games! Sorry that I can't be of more help...
+FILEPAGE
+This is a simple variant of an automa opponent to compete against versus the standard solo rules. There are no other materials needed just these simple setup and ranger rules changes. The event deck is used just as in the standard rules and movement rules are the same except for two exceptions noted below. PARKS cards are always immediately replaced so that three cards are always available to the player and the automa.
+
+SETUP CHANGES: In the same area as the event cards the parkautoma will also have a campfire token matching the rangers color and a random year card placed face up. Leave space for photos collected and for PARK cards VISITED by the parkautoma.
+
+RANGER RULES CHANGES ON THE TRAIL: The rangers take the weather tokens and place on the event tracker as normal. The ranger’s movement rules are the same as the standard rules; however the only locations the rangers will interact with are VISTA and LOOKOUT. The rangers will use the campfire token to share either of those spaces if occupied by a player’s hiker and the movement card would have placed the ranger there. The campfire token can be reset when the first RANGER makes it to TRAIL END and then can be used again if the opportunity arises otherwise the space will be blocked if a player’s hiker is on it. The rangers can always share spaces together. The automa does not collect tokens other than the weather ones placed on the event tracker. The automa does not have to spend tokens to take a photo or a PARK card.
+A) VISTA LOCATION: The PARKAUTOMA will take the camera from the player if not already in its possession and will add a photo to its play area near the event cards. These photos count for end of game scoring points and could be a requirement to score bonus points. If the camera is in the parkautoma’s possession then it remains and a photo is taken.
+
+B) LOOKOUT LOCATION: The PARKAUTOMA will VISIT A PARK following these rules;
+1) BONUS CARD IS NUMBER OF LIKE LANDSCAPES: It will take the card with the most icons matching the bonus card. If there is a tie it will take the highest point value. If none meet that requirement then the highest point value. If still a tie then randomly choose from the highest point. The PARK cards taken by the PARKAUTOMA will be replaced. The taken card is placed face down in its playing area near the event cards.
+2) BONUS CARD IS NUMBER OF PARKS VISITED WITH SPECIFIC LANDSCAPE: It will take the highest value card that will meet the bonus card requirement. In a tie it will take the one with the most matching landscapes to the bonus card. If none meet the requirement then the highest point value. If still a tie then randomly choose from the highest. The PARK cards taken by the PARKAUTOMA will be replaced. The taken card is placed face down in its playing area near the event cards.
+
+RANGER RULES CHANGES TRAIL END: When the RANGERS reach the trail end these are the changes.
+A) ONE SUN GEAR MOVE: Take the first player token. Discard the left PARK card and replace with a new one.
+B) TWO SUN GEAR MOVE: Take the camera if not already in possession. Discard the middle PARK card and replace with a new one.
+C) THREE SUN GEAR MOVE: Visit a PARK that meets the same requirements as from the LOOKOUT LOCATION. Replace the taken PARK card with a new one. The taken card is placed face down in its playing area near the event cards. Shuffle all but the last drawn THREE SUN CARDS back into the gear deck leaving one available for the player to purchase.
+
+SEASON END CHANGES:
+A) The PARKAUTOMA now takes a BONUS VISIT A PARK action following the same requirements as the LOOKOUT LOCATION and TRAIL END VISIT A PARK. The PARK card taken is then replaced with a new one. The taken card is placed face down in its playing area near the event cards. (IF BOTH RANGERS TOOK THE VISIT PARK ACTION AT TRAIL END SKIP THIS BONUS ACTION FOR THAT SEASON)
+B) The PARKAUTOMA always takes a photo at the end of the season whether in possession of the camera or not.
+
+RULES CHANGES SUMMARY:
+Setup- add the campfire token and a randomly drawn yearend bonus card for automa
+Rangers will use campfire token to share space with hiker that is on VISTA or LOOKOUT.
+Vista will take the camera and add a photo to area. Lookout will visit a park that meets requirements of Bonus Card.
+Trail End when a PARK card is either removed or taken by the automa they are always replaced.
+The automa always takes a photo and bonus VISIT PARK action at the end of each season.
+End of game scoring is the same.
+The range for the automa is 4-12 photos collected and 4-16 PARKS cards collected.
+In the ‘standard’ solo rules in the rule book the automa doesn’t score so why do rangers take pictures and parks into its play area in your variant? Are the rules you describe changes to the Ranger Ron solo variant?
+Sorry you are right I was not clear on the scoring. The automa scores just like another player. 1 point for each photo, given points on the Parks cards and any bonus points plus the first player token if in possession. i have played several more times and am considering an edit to make the automa less tough. At season end only take the VISIT A PARK bonus action if either Ranger did not make it to trail end using a 3 movement card.
+I also have not read the Ranger Ron variant. I will look into it.
+As my wife loves this game so much that she couldn't stop playing. To add more variety in our 2-player mode, I came up with this variant, where the ranger Kafka's main focus is to protect (visit) and reserve the most valuable parks with intervention. It was initially designed for 2 players using 3-player rules and setup. I wonder if anyone would like to give it a test ride and give me any comments. Hopefully it could also work for 1 or 3 players, although I never tested it.
+
+The rangers have 3 special skills - Adaptive, Proficient & Intervention. Proficient allows them to take the most suitable PATHS on every trail sites and the trail-end. Adaptive is an ability to use their PATH (weather) tokens as wild cards in place of any other path tokens when protecting a park.
+
+* Here I would call the weather tokens “PATHS” that the hikers need to walk along before finishing their hike in a park - sunshine, water, forest or mountain paths.
+
+Adaptive
+When a ranger protects (visits) a park, he turns in at least one path (weather token) for each type required by the park card, plus all his remaining corresponding tokens. Once this is done, he could use the rest of his path tokens as wild cards in place of any requirements for that park.
+
+Proficient
+Whenever a ranger arrives at a trail site whose site action is not weather icons, he would take one most suitable path* (weather token) from the supply. Such trail sites include Canteen, Exchange, Wildlife, Copy, Parks and the Trail-end.
+
+Intervention
+If the first hiker marker doesn’t change its owner for two seasons, it goes into the ranger’s possession.
+If no one takes a picture for two seasons, it goes into the rangers’ possession, but they wouldn’t take a picture with it.
+SETUP
+In the beginning, the rangers will take their turn right before the keeper of first hiker marker. That decides the rangers’ seat around the table. The rangers keep moving first until someone wins the first hiker marker and changes the order. The rangers can move to any occupied site without using a campfire and can carry path (weather) tokens without limit.
+
+The player with the highest points among the three wins.
+PATROL AI
+First, decide which trail site to go to in the following priority order:
+1. To the next path (weather) token
+2. To the next unoccupied trail site
+3. To PROTECT a closer park, if path tokens suffice*. Trail-site PARKS has higher priority.
+4. To the next occupied trail, if insufficient tokens to visit a park. No campfire required.*
+5. To the trail-end
+
+Rangers would not make a lower priority movement whenever a higher priority movement is possible.
+Whenever there is only one player’s hiker left on the trail, priority (3) if path tokens suffice becomes top priority before taking any other path tokes.
+
+Secondly, decide which ranger to move in the following priority order:
+1. Whichever higher priority movement is possible, move the closer ranger there.
+2. Move the ranger behind, if the travelling distance is equal
+SITE ACTION AI
+At a site with path (weather) icons:
+Take the path tokens normally. Take the path tokens away from the trail sites as well as gain the path tokens from the supply as depicted in the Site Action.
+
+At a site without path icons:
+Take one most suitable* path token from the supply at any of the following trail sites, Canteen, Exchange, Wildlife, Copy and Parks. Park actions (visit /reserve) would be performed but all other site actions are ignored.
+PARKS ACTION AI
+At the trail-end, PARKS site, or when copying PARKS site action, a ranger takes an action in the following order:
+1. Protect (visit) a park of the highest value possible, and then take one most suitable path token after revealing a new park card.
+2. Take any one path token that could allow the ranger to protect any park, even not the highest value.
+3. Take the most suitable path token for high-value park as usual. Reserve a park of the highest value that the rangers have the most corresponding path types.
+SCORING
+The rangers score points from the protected park cards, plus the number of reserved park cards, plus the number of unused path types (max. 4) at the end of the year. Camera and First Hiker Marker, each counts as 1 point. The rangers do not get year end bonus or picture bonus.
+The most suitable paths
+are the weather types shown on the revealed PARKS cards that have the highest points. Collect any missing path types required for the park of the highest value, and then that of the next highest value, until he’s got all four path types. Where there is a tie, choose the type required by most park cards.
+
+After having four path types, he would follow the same logic as if he’s got one less path token for each path type. This is to accumulate the quantity of each path type required by a higher-value park as even as possible, since the ranger has adaptive wild card skill.
+
+When deciding the value of a park card of equal points for a ranger, the lower the total token quantity required, the higher the value is. With quantities being equal, the fewer the path types, the higher the value.
+
+
+HIGHER / LOWER DIFFICULTY:
+PARKS ACTION:
+I am not sure whether it's challenging or relaxing enough. Perhaps by adjusting the number of path tokens gained at the PARKS tile / tail-end, you would find a sweet spot for yourself. Let the rangers gain two tokens if you prefer to compete with the rangers, or zero if you simply want higher variety and complexity in game.
+
+
+Hope you enjoy it. Cheers,
+Another small variant for this beautiful game-just one simple rule to increase the strategic and thematic meaning of the campfire:
+
+1. When a player uses his campfire all player which have hikers on the refered trail space may refresh a canteen (for free) or pay one resource to get the action reward of that trail space again.
+Great idea, and it increases player interaction.
+Would you allow the solo player to take 1 free resource?
+Great idea, and it increases player interaction.
+Would you allow the solo player to take 1 free resource?
+Thank you. I think in generell its diffucult to implement any variant to the solo mode, because it makes the score-sheet missadjusted. Appart from that i dont understand your question completly to be honest, could you explain it a bit please?
+Just thinking that you were giving players a benefit whenever a campfire is used, but in solo no-one will give the solo player that same benefit.
+But, perhaps you're right - it might imbalance scoring.
+Just thinking that you were giving players a benefit whenever a campfire is used, but in solo no-one will give the solo player that same benefit.
+But, perhaps you're right - it might imbalance scoring.
+Why not, the solo player would still be able to use the effect for himself.
+Has anyone tried this rule? If so, which: refresh the canteen or pay a resource to redo the action? Does this variation work well?
+As a Canadian board game enthusiast, I thought it would be lovely to play Parks but with Canadian landscapes instead of always American ones. I designed and printed these at home and wanted to provide them here in case anyone else would like to use them too.
+
+These images are NOT to be sold or used for profit in any way. I have not and will not generate any profit off of these images.
+
+https://drive.google.com/drive/folders/1NREEolNIPnO-hFXgv3G4...
+
+Parks was designed by Henry Audubon with art by Fifty-Nine Parks Print Series (multiple artists) and published by Keymaster Games.
+
+This custom version is not a stand-alone game and to use this you MUST purchase the original Parks game which can be found at this link: https://keymastergames.com/en-ca/products/parks
+
+The artwork is not my own. The art for each park was taken from Canada’s National Parks Posters, found at canadasparks.com/canadas-parks-posters/
+
+The art on the back of the cards is by Rod Charlesworth: rodcharlesworth.com
+_
+Please enjoy the game!
+-Zach Power
+
+Sample cards:
+They look really cool. would like to use them too for a change of scenery
+
+the google drive link needs 'access' though so can't get to em
+
+*edit* thanks, got Access, they look great
+Very cool!
+During Gen Con 2020 (virtual), the Keymaster folks asked for suggestions, and I floated the idea of Parks Canada. They said they had some preliminary discussions with them, but nothing that went very far. Bummer. These cards are great!
+Wow, nice cards. Thank you.
+Wow, beautiful! I've been wanting Canadian Parks in my game. I recognize the handful I've been to! Great job
+Cool! Now how to get them on toes that match the other backs?
+These are so awesome!! How can I print them on the right card stock and with the matching backs so they blend in with the rest of my Parks cards?
+Cool! I'm going to Banff this year! I like to bring Parks with me on vacation and see the local parks.
+
+I want these professionally printed so I can add them in since I don't sleeve. Maybe I'll sleeve now that the game will be out of print. I see now there are enough cards for a whole expansion. Super!
+I love thèse. Thank you! I must say when I heard about Parks 2nd Edition I was actually hoping it was all the Canadian Parks.
+ATTN:
+Although you have linked to my website, my Canada's Parks artwork seen here has been used and modified without my consent. Please remove.
+Thanks.
+Why don't you want people to see your work? It is pretty.
+Why don't you want people to see your work? It is pretty.
+If Keymaster wants to, they can always PAY the artist. Sounds fair and reasonable to me.
+Hello all! In the Files section I have posted rules that I developed for "Into the Backcountry." it is an unofficial expansion to Parks using the game elements from Trails. I was inspired to try this by other excellent posts I have read in both the Parks and Trails forums combining these two games, so much of the credit belongs to the previous contributors. I have only been able to try out the solo version, and I think it works pretty well. Hopefully, it will be fun for multi-player as well. If anyone tries it out or has suggestions, criticisms, etc. I would love to hear about it. Thanks!
+I can't find it, maybe it's not approved yet?
+Sorry! I’m new at this! It’s not approved yet.
+The rules are now available in the Files section. Sorry for the delay!
+Just read through your files, and I love the way you were able to incorporate the actual TRAILS tiles and the sun token, which felt very true to the player choice involved in the base game play style. I think I was one of the posters you drew inspiration from, or at least I hope I was. Much of it seems to be fully compatible with or derived from modules 1, 2, & 3 from my previous "Deluxe Edition" post, and the parts that conflict with or replace module 4 I think may prove to be the superior version. Will definitely be trying out "Into the Backcountry" with family and friends in the future!
+Thanks for your kind words! I definitely “borrowed” (stole) from your work. I hope you like the multi-player game. I still have only played solo.
+Hello all! I have just posted Into the Backcountry rev. 1.5 in the files section. The biggest change is that it adds new rules for rolling the bear die (“when bears attack!”). I hope you enjoy it.
+Hi !
+I think there are 2 little issues with the gameplay:
+1. Gears. Many are not so useful, and stay during all the game, nobody wants to buy them.
+2. Canteens. Those that give 1 resource token are not very useful.
+3. Year cards. Goals are quite difficult and their bonus victory points are too low.
+
+I suggest these variants to address these issues:
+1. Gears.
+Variant "NewGears" > All gears are changed with new ones at the end of each season.
+OR:
+Variant "BonusGears" > At the end of each season, take 3 resource tokens (wood, sun and mountain) and randomly put 1 on each gear that has no bonus token yet. The player who buys a gear takes the bonus token as a bonus.
+2. Canteens.
+Variant "DoubleCanteens" > You get x2 the resource token showed on a canteen.
+OR
+Variant "SelectedCanteens" > Instead of drawing 1 canteen, please draw 3 cards, choose 1 canteen and discard the 2 left cards.
+OR
+Variant "PleaseBuyMeCanteens" > When you buy a canteen card that has 1 resource token showed, you immedialty gain the same token (without activating the canteen). This is just a 1-time "buy bonus".
+3. Year cards
+Variant "CumulateYears" > Both goals can be achieved, each one allows the player to gain the rewards.
+
+What do you think ?
+Hi !
+I think there are 2 little issues with the gameplay:
+1. Gears. Many are not so useful, and stay during all the game, nobody wants to buy them.
+2. Canteens. Those that give 1 resource token are not very useful.
+1) Gear is the most useful when bought during the first, maybe second season. You should be visiting parks instead in later seasons. As a result it never bothered me that the market stagnates.
+2) IIRC Those that give a single resource give a mountain or a forest, those are harder to come by than sun or water so they are already a net gain.
+
+I think neither the Gear nor the Canteens should be very impactful. The game is about hiking, not about collecting gear. Both gear and canteens can give you a slight edge, but most of it should still come from hiking (moving you workers around).
+I think neither the Gear nor the Canteens should be very impactful. The game is about hiking, not about collecting gear. Both gear and canteens can give you a slight edge, but most of it should still come from hiking (moving you workers around).
+I'm OK with you but since gears and canteen only bring "slight edge", maybe could they be removed from the gameplay. Or tweaked to be a bit more effective. But it's a personal take. As a boardgame designer, I try to remove systems that add a (even samll) layer of rules and that do not add a real value to the game fun.
+3. Year cards. Goals are quite difficult and their bonus victory points are too low.
+The Nightfall expansion fixed this issue by having an all new Year card deck.
+
+Both expansions (Nightfall and Wildlife) add things to help make it more rewarding to get Gear and canteens.
+
+I know that if a game needs expansions to make it playable it isn’t that good of a game. But it sounds like you like the game and just want a few miner thing changed, and I believe that is the spot for expansions to really shine.
+I think neither the Gear nor the Canteens should be very impactful. The game is about hiking, not about collecting gear. Both gear and canteens can give you a slight edge, but most of it should still come from hiking (moving you workers around).
+I'm OK with you but since gears and canteen only bring "slight edge", maybe could they be removed from the gameplay. Or tweaked to be a bit more effective. But it's a personal take. As a boardgame designer, I try to remove systems that add a (even samll) layer of rules and that do not add a real value to the game fun.
+Canteens bring into the game a bit of engine building. If you get to have a good combo, once you get a water token you may have plenty of things done in a single turn. And I agree that a single resource canteen (tree or mountain) is *very* good stuff.
+Hi !
+I think there are 2 little issues with the gameplay:
+1. Gears. Many are not so useful, and stay during all the game, nobody wants to buy them.
+2. Canteens. Those that give 1 resource token are not very useful.
+3. Year cards. Goals are quite difficult and their bonus victory points are too low.
+
+I suggest these variants to address these issues:
+1. Gears.
+Variant "NewGears" > All gears are changed with new ones at the end of each season.
+OR:
+Variant "BonusGears" > At the end of each season, take 3 resource tokens (wood, sun and mountain) and randomly put 1 on each gear that has no bonus token yet. The player who buys a gear takes the bonus token as a bonus.
+2. Canteens.
+Variant "DoubleCanteens" > You get x2 the resource token showed on a canteen.
+OR
+Variant "SelectedCanteens" > Instead of drawing 1 canteen, please draw 3 cards, choose 1 canteen and discard the 2 left cards.
+OR
+Variant "PleaseBuyMeCanteens" > When you buy a canteen card that has 1 resource token showed, you immedialty gain the same token (without activating the canteen). This is just a 1-time "buy bonus".
+3. Year cards
+Variant "CumulateYears" > Both goals can be achieved, each one allows the player to gain the rewards.
+
+What do you think ?
+I’m not sure I’d change these, other than to refresh each round, more to increase the visibility than anything else.
+I’ve bought the expansions mentioned later, but not tried them properly yet.
+Nightfall "fixed" the Year End cards. As for "gear" cards we always play that they refresh each season. Not only does this keep it from stagnating (no one wants what is showing) it also adds a bit of pressure if you are considering a gear card as you know it will be gone with the change of seasons.
+1. Gears. Many are not so useful, and stay during all the game, nobody wants to buy them.
+
+2. Canteens. Those that give 1 resource token are not very useful.
+
+I suggest these variants to address these issues:
+1. Gears.
+Variant "NewGears" > All gears are changed with new ones at the end of each season.
+OR:
+Variant "BonusGears" > At the end of each season, take 3 resource tokens (wood, sun and mountain) and randomly put 1 on each gear that has no bonus token yet. The player who buys a gear takes the bonus token as a bonus.
+2. Canteens.
+Variant "DoubleCanteens" > You get x2 the resource token showed on a canteen.
+OR
+Variant "SelectedCanteens" > Instead of drawing 1 canteen, please draw 3 cards, choose 1 canteen and discard the 2 left cards.
+OR
+Variant "PleaseBuyMeCanteens" > When you buy a canteen card that has 1 resource token showed, you immedialty gain the same token (without activating the canteen). This is just a 1-time "buy bonus".
+It took me awhile before I had the time to get the game out and check the rule booklet from Wildlife it has in it “fixes for both gear and canteens.
+In case the pictures are too low a resolution, in short.
+
+Gear:
+Whenever the Bison “meeple” gets back to the beginning, the player that made the Bison go back gets to choose an available gear to be discarded. Sending it to the bottom of the gear deck.
+
+Canteens:
+Anytime one gains a canteen, they draw 2 and pick one to keep and the other goes to the bottom of the deck.
+
+Again both expansions are really good, and imo easy to incorporate.
+Again both expansions are really good, and imo easy to incorporate.
+I only play it without expansions if most of the players are almost new to board games.
+I was going to suggest using Wildlife rules for canteens (since you don't need anything, you can apply them easily to basegame) which is draw two, pick one.
+
+Nightfall year cards are much better and the camping sites from the expansion also add a way for you to change the gear available, so you might consider getting that one.
+There are a number of posts in various forums about the canteen card that allows a player to reserve a Park card being hopelessly unbalanced i.e. overpowered.
+
+I totally agree.
+
+I have played a couple of times now where I would build my resources for a particular park, then see that park snatched with the park reserving canteen mid round. I would then have to inefficiently spend multiple turns/actions to re-tool my resources to aim at another park, then often see it snatched too early in the next season.
+
+Not fun. And it drags down an otherwise good game.
+
+Compared to other canteens that give a player (say) a single tree or mountain token, getting the “Park card reserving canteen” in their openning hand gives that player a huge advantage. I don’t know how such an imbalance got through playtesting.
+
+It is like playing Monopoly and one player starts with both Mayfair and Park Lane, and the other player gets a railway station. Am I missing something in the rules? I don’t think so.
+
+So, are there any tested variants out there that people have tried to correct this imbalance?
+
+My own alternative Suggestions (untested yet) would include…
+
+1. the reserving player losing points equal to DOUBLE the point value of a park they have reserved with the canteen and not visited before game end
+2. the canteen can only reserve one park at a time, i.e. cannot be used again in a subsequent season until the first reserved park has been visited
+3. All other players get one bear/animal for each complete season left in the game when a player gets a park reserving canteen. So if a player gets the canteen in their openning hand, all other players get four bears. (That is how unbalanced I think this canteen is).
+
+Your thoughts?
+
+Regards, Jim.
+How about if there is a park you want and you see that an opponent has the canteen card and might swipe "your" park, you get your hiker to the spot that offers water tokens to prevent the other player from gaining the water token enabling them to place it on their canteen. Now they could use there campfire token to also go there, but hey, that's the game. (not sure if you are aware or not, but you can only place a water token on a canteen that you just gained that turn. You cant use them from your supply.)
+How about if there is a park you want and you see that an opponent has the canteen card and might swipe "your" park, you get your hiker to the spot that offers water tokens to prevent the other player from gaining the water token enabling them to place it on their canteen. Now they could use there campfire token to also go there, but hey, that's the game. (not sure if you are aware or not, but you can only place a water token on a canteen that you just gained that turn. You cant use them from your supply.)
+Exactly.
+That canteen is actually one of my least favorite canteens, but I play low player count games.
+
+IMO I do not think it’s unbalanced.
+Could you mention what these various forums are exactly? In my game group, I always find that resource quality is abundant while resource quantity is scarce. So the wild/reserve canteen is our least favorite, while the 2-sun canteen is our favorite.
+I think the Park Pass is even stronger. It is not that tough to accumulate resources.
+https://boardgamegeek.com/thread/2285498/park-pass-little-op
+Adam and Ian… There are frequently several bonus water token locations, depending on the season weather. So in a low player count, blocking water supply is difficult.
+I think the Park Pass is even stronger. It is not that tough to accumulate resources.
+https://boardgamegeek.com/thread/2285498/park-pass-little-op
+Hi Peter. Yes I agree with you on the Park Pass and clearly so do many others.
+I like the comment about changing the text on Park Pass to something like “If you get this card in Season 1 or 2, you have immediately won the game.” It is more evidence that there are some unbalanced cards, depending on player count and experience.
+That canteen is actually one of my least favorite canteens, but I play low player count games.
+
+IMO I do not think it’s unbalanced.
+Yes, it seems the problem is most apparent in low player count games. Plenty of resources, including water are usually available, so efficiency in targetting high point-value parks to visit becomes critical. I played a 2P where my opponent got one of these canteens in their openning hard, then drew a second very early in the game. Every time I started to acquire resources for a decent point park visit, my opponent would simply grab that park, and I would be forced to use my end-season park visit actions on much lower point value parks
+
+Sure, there are some strategies to counter this effect to some degree, but they all affect victory point efficiency, and mean taking longer jumps on the hiking trail. Meanwhile the player with the canteen simply targets the precise resources they need, knowing they already have the reserved park, and can stroll along the hiking trail slowly… maximising their resources and efficiency.
+Could you mention what these various forums are exactly? In my game group, I always find that resource quality is abundant while resource quantity is scarce. So the wild/reserve canteen is our least favorite, while the 2-sun canteen is our favorite.
+Hi.
+
+The following forum entry is one that agrees that the single mountain canteen is underpowered, and discusses variants that would cause more cycling of the park cards… that would reduce the denial effect of people reserving park cards when an opponent was building resources tokens of certain types.
+https://boardgamegeek.com/thread/2276921/mechanism-issues-an...
+
+While I can see the case for the value of the 2-sun canteen, my original post did comment more on the imbalance of the reserve-park-canteen compared to the single-forest or single-mountain canteens. They just aren’t in the same league… hence my view the canteens are unbalanced.
+
+I don’t like excessive luck in game design. It cheapens a game, IMO, and should be ironed out in developer play-testing. Don’t get me wrong… I think PARKS is a nice, interesting game, but IMO it could be improved with some variants. That is why I posted… to find out if anyone had tried some variants and given them a good shake-out.
+
+Certainly, starting “hand” variance is important to give any game strategic variability and replayability. But simply giving out an “alpha card” to one player, and far lesser cards to others, without a mitigating penalty effect, is just flawed.
+
+Viticulture too suffers from a similar imbalance where some of the starting Mamas/Papas and starting vine/visitor cards are simply better than others. Even in Ticket-to-Ride Europe, a player may be dealt a set of starting train routes that are far easier to complete than those that other players are dealt, but at least you get to reject some of your route cards.
+
+Compare then to the great game, T’zolkin. Each player gets four starting bonus cards, and chooses to keep two. They all are fairly balanced, some have strategic synergies, and the combination of two cards to each player generates a wide mixture of starting resources, technology track advances, or temple track advances.
+
+In The Castles of Burgundy, the choice of starting board can make a huge difference, but you already know the first turn player sequence and choose your board accordingly.
+
+In Russian Railroads, players choose a minor starting bonus, in reverse turn order sequence… just enough to balance the first player advantage, and provide some initial strategic variation between the players.
+
+Another great, but leser known Euro game, Lancaster, has no starting hands, therefore no imbalances. It is purely the moves and timing by a player that create advantage and efficiency.
+
+Regards, Jim.
+Adam and Ian… There are frequently several bonus water token locations, depending on the season weather. So in a low player count, blocking water supply is difficult.
+I have only ever played this game with two players. It's not like that specific canteen card shows up every game, but it could (I think there are 3 of them). Instead of changing the rules, maybe just remove 2 of those cards from the deck. that would be the easiest fix.
+
+Example: I kept buying canteen cards one game and it kept being the same one (Can't remember which one) and it was pretty much useless to me. You know what, that's the way it worked, should I change the rules so that I get the card I want? No, I change up my strategy, If I lose, I play again.
+
+And for clarity, the canteen allows you to RESERVE A PARK. which means you still have to have the resources and VISIT the park in order to acquire and gain the points. Most 4 point cards average 6 tokens to meet the "visit" requirements. Visiting only high point parks isn't the only way to win the game. Sounds like whoever you are playing against is just sandbagging the high points cards and seems like a lot of work for little return. I have had players win by simply taking photos every opportunity they have, or meeting the requirements on their personal "year" bonus cards. and to be honest, I don't think the year cards are that great. Visit 8 parks with trees and you only get 3 points but sometimes its enough to put you over the top.
+I don't find that canteen card (nor any other canteen card for that matter) to be broken, but if it's really so objectionable to you, just remove it from the game. Why attempt to nerf it by creating a house rule? Just get rid of it and move on.
+I think the main issue about reservation is that I don't know how to punish "efficiency strategy" with denial tactics. By efficiency strategy I mean you move slowly, trying to stay at the trail longer to maximize your resource, and only visit parks when the opportunity presents. Yes, a resource-rich strategy can be punished if they don't have enough opportunities/"good parks" to spend the resources and are forced to discard due to backpack limit. But I rarely find it to be the case, mainly because the parks are refreshed often, and there is no rush to take a good one early. When my backpack is about full, I have enough flexibility to have at least one good park available.
+
+I think I must have missed some tactical aspects of the game, as I don't see how reserve-blocking is effective enough. How do you like the wildlife site? I find it underpowered and I never use it unless I need an emergency resource right now or I just want to stall.
+For me, is just annoying that there are so many duplicates. Not enough variety.
+
+Tonight, I got 2 that let you trade resources & another person got 3 mountain canteens. Not specifically broken, but it's disappointing to keep pulling the same one.
+For me, is just annoying that there are so many duplicates. Not enough variety.
+
+Tonight, I got 2 that let you trade resources & another person got 3 mountain canteens. Not specifically broken, but it's disappointing to keep pulling the same one.
+I agree. We use a house rule that if you draw a duplicate canteen, then you may redraw once. Otherwise it is very punishing to the person that gives up a photo opportunity for a canteen.
+For me, is just annoying that there are so many duplicates. Not enough variety.
+
+Tonight, I got 2 that let you trade resources & another person got 3 mountain canteens. Not specifically broken, but it's disappointing to keep pulling the same one.
+I can agree on this, I think I pulled 4 of the same card. I basically blew the game wasting time on canteens. I was hoping for something but kept getting the same useless one.
+I think the base game has 3 copies of each of the 5 types (2-sun, tree, mountain, wild/reserve, trade-2), so there are 15 in total. But yes 3 of the same is annoying enough.
+I suppose a simple variant to mitigate that would be one of the following:
+
+Lay out the canteen deck followed by two cards from it face up. When given the option to take a canteen card, take the top card of the draw deck (blind draw) per the usual rules, or pay one extra resource for the first faced up card or two for the second. If the first face up is taken, slide the remaining face up into its place. If the second slot is empty (either because it was taken or because it is now in the 1st position), replace it with the top card of the draw deck.
+
+OR
+
+Lay out the canteen deck and reveal three cards face up. These become the offering, with the card closest to the draw deck requiring the usual single water resource to obtain, the next requires an additional resource, and the final requiring two additional resources. No blind draws are allowed. Similar to above, when a card is chosen, slide the remaining cards down and replace missing card with one from the draw deck.
+
+I haven't tried either of these in PARKS, but it would mitigate some of the luck/misfortune of the canteen deck while not unbalancing the game.
+I suppose a simple variant to mitigate that would be one of the following:
+
+Lay out the canteen deck followed by two cards from it face up. When given the option to take a canteen card, take the top card of the draw deck (blind draw) per the usual rules, or pay one extra resource for the first faced up card or two for the second. If the first face up is taken, slide the remaining face up into its place. If the second slot is empty (either because it was taken or because it is now in the 1st position), replace it with the top card of the draw deck.
+
+OR
+
+Lay out the canteen deck and reveal three cards face up. These become the offering, with the card closest to the draw deck requiring the usual single water resource to obtain, the next requires an additional resource, and the final requiring two additional resources. No blind draws are allowed. Similar to above, when a card is chosen, slide the remaining cards down and replace missing card with one from the draw deck.
+
+I haven't tried either of these in PARKS, but it would mitigate some of the luck/misfortune of the canteen deck while not unbalancing the game.
+Nice ideas! I haven't been annoyed by multiple canteens -- I always find uses for them -- but maybe:
+
+If you draw a canteen and you already have another one of that type, you can either:
+
+* Keep it, or
+
+* Give it to another player of your choice, draw again, and keep what you draw.
+
+The stuff in italics could be optional, or you could have to pay a resource to draw again, or some other small penalty.
+I suppose a simple variant to mitigate that would be one of the following:
+
+Lay out the canteen deck followed by two cards from it face up. When given the option to take a canteen card, take the top card of the draw deck (blind draw) per the usual rules, or pay one extra resource for the first faced up card or two for the second. If the first face up is taken, slide the remaining face up into its place. If the second slot is empty (either because it was taken or because it is now in the 1st position), replace it with the top card of the draw deck.
+
+OR
+
+Lay out the canteen deck and reveal three cards face up. These become the offering, with the card closest to the draw deck requiring the usual single water resource to obtain, the next requires an additional resource, and the final requiring two additional resources. No blind draws are allowed. Similar to above, when a card is chosen, slide the remaining cards down and replace missing card with one from the draw deck.
+
+I haven't tried either of these in PARKS, but it would mitigate some of the luck/misfortune of the canteen deck while not unbalancing the game.
+These types of universal mechanisms are really good to balance anything!
+On the other hand, I think a little nudge should be enough, so I would keep it simple like "having one face-up; you can draw that one or draw blind, for free in either case; replace the face-up card at the end of each season". The reason is that I think the intention of canteen is not combo building; you are supposed to make the decision to gain a canteen based on its generic economic advantage, and then live with whatever canteen you have since your canteen tilts the scarcity and abundance of each resource type for you. From this point of view, I am happy to get any different canteen.
+Right now I only have the base PARKS box, but I was reading Nighfall and Wildlife rules (I'm receiving both soon), and I found that if you include some of their updated rules into the base game, it could make the game better. Those are:
+
+• Each player starts with a wildlife token
+I think this helps a lot to jump-start the game and makes the first turns more interesting.
+
+• Wildlove (1 wildlife = 2 tokens where any two are required - photo, for example)
+WIldlife tokens are already good, but this rule makes them more cherished and encourages going for them.
+
+• When gaining a canteen, draw 2 canteens, pick one and discard the other (also apply this on your starting canteen)
+This helps your strategy by increasing the chance of drawing one that helps you.
+
+• For the first Season, the Advanced Trail Site is always the one with PARK/GEAR
+Having this site from the beginning makes the game a lot more exciting and less random.
+
+Also, since in the base game there is no way to refresh the GEAR market (besides buying one) and sometimes it gets stale, the following rule could be adopted:
+• The last player arriving at the End Trail can discard a GEAR card from the market and replace it with the one at the top of the deck. This should be done as the last action from this player.
+You could also use a Wildlife to represent the new Bison rule on Parks cards (or if you think you'll run out of WL then a sunshine or unused hiker, or the Bear from Trails if you own that)
+
+Here's my "Parks Wildlife Rulebook on keymastergames Product Page Here's Highlights" thread for reference so players know what's being discussed here
+https://boardgamegeek.com/thread/2898809/parks-wildlife-rule...
+
+And "Nightfall Rulebook - English" BGG link to the keymastergames.com link (that URL is long an I didn't want to put a tinyurl)
+https://boardgamegeek.com/filepage/209863/nightfall-rulebook...
+You could also use a Wildlife to represent the new Bison rule on Parks cards (or if you think you'll run out of WL then a sunshine or unused hiker, or the Bear from Trails if you own that)
+I thought about that, but I didn't want to introduce anything that was not already there. But yes, you can proxy the Bison and have more opportunities for wildlife tokens and GEAR market recycle. In that case I would not include my idea for the last hicker, since the Bison manages the GEAR market.
+Something else the expansions add you can easily implement: at set-up each player chooses from 2 year and canteen cards to start with.
+Also, since in the base game there is no way to refresh the GEAR market (besides buying one) and sometimes it gets stale, the following rule could be adopted:
+• The last player arriving at the End Trail can discard a GEAR card from the market and replace it with the one at the top of the deck. This should be done as the last action from this player.
+Not from an expansion but a variant we’ve been playing with is the market refreshes at the end of each season. This emphasises the importance of gaining a card you might see value in, on top of it being potentially valuable to others.
+Not from an expansion but a variant we’ve been playing with is the market refreshes at the end of each season. This emphasises the importance of gaining a card you might see value in, on top of it being potentially valuable to others.
+I thought this was too radical, so I went for a way of replacing one market card. But it's a valid idea and some people could prefer it.
+Something else the expansions add you can easily implement: at set-up each player chooses from 2 year and canteen cards to start with.
+I already included the option for a starting canteen choice between two.
+
+Playing with base game, I only used year cards on my first game, and I saw they distract you from getting better parks, and at the end they are not worth, so I don't use them anymore. I'm waiting for my copy of Nightfall so I get better year cards to actually use.
+Someone moved this thread to the "Variants" forum. It's technically a variant, but I'm pretty sure that if the developers could go back in time, they'd include those rules from the start.
+Something else the expansions add you can easily implement: at set-up each player chooses from 2 year and canteen cards to start with.
+I already included the option for a starting canteen choice between two.
+
+Playing with base game, I only used year cards on my first game, and I saw they distract you from getting better parks, and at the end they are not worth, so I don't use them anymore. I'm waiting for my copy of Nightfall so I get better year cards to actually use.
+I suppose I misread. It seemed to me that you meant only when you gain during gameplay, not at the start. And there's no harm in mentioning the year cards; even if you don't play with them other people do, and regardless if it's base or Nightfall, having a choice at the beginning is always nice. I think it's worth mentioning in a list of expansion rule implementations even if you never or seldom use it yourself.
+I suppose I misread. It seemed to me that you meant only when you gain during gameplay, not at the start. And there's no harm in mentioning the year cards; even if you don't play with them other people do, and regardless if it's base or Nightfall, having a choice at the beginning is always nice. I think it's worth mentioning in a list of expansion rule implementations even if you never or seldom use it yourself.
+I was not disregarding your post. I was only explaning why I did not include them. And yes, if I would play with the original year cards, I'd deal two to each player and everybody chooses one.
+market refreshes at the end of each season
+We considered this; if I were to do it I would do something like other games do and have them always slide away from the deck to fill gaps. Then only cycle out one each (gear|park) at the end of the season.
+We considered this; if I were to do it I would do something like other games do and have them always slide away from the deck to fill gaps. Then only cycle out one each (gear|park) at the end of the season.
+I don't like the idea of cycling parks. Maybe the leftmost is a great park and you're still gathering the needed resources, or it's a low resource/value park that's ideal when you have the gear that lets you visit a second park after visiting one.
+• Wildlove (1 wildlife = 2 tokens where any two are required - photo, for example)
+WIldlife tokens are already good, but this rule makes them more cherished and encourages going for them.
+Are there any other situations where a wild would count as 2 tokens? I'm blanking on other needs for "any two" tokens besides taking the camera to take a photo.
+Are there any other situations where a wild would count as 2 tokens? I'm blanking on other needs for "any two" tokens besides taking the camera to take a photo.
+Not in the base game. In the expansions there are parks that require any 2, 3 or 4 tokens.
+This solo mode I created for myself gives you a score to beat, rather than 'see how well you did'. I've tweaked it and played it at least 10 times and really enjoy it this way, so I wanted to share.
+
+Set up the game as the normal solo mode, but add these 2 changes:
+
+- Give the rangers a random year event. If you pull the Year of Gear, discard it and pull another card for them.
+- Place a photo on top of the canteen/photo trail site.
+
+The rules are pretty much the same, except for this:
+
+- When a ranger lands on the canteen/photo trail site, they get the photo on it, but the camera does not change ownership. After a ranger takes the photo, put a new photo on the trail site. Each ranger that lands on it, gets a photo (or two photos, see below), so two chances per season. The hikers don't get the photo, you follow the normal rules when you visit the site.
+
+- If a ranger lands on the second trail end slot, they get the camera. When they are in possession of the camera, they get 2 photos each time they land on the canteen/photo trail site. When you get the camera back, it goes back to 1 again.
+
+- The parks that the rangers take when landing on the trail end slots, become theirs.
+
+So the rangers' final score is calculated the same way as yours. The parks they took, the pictures they have and the potential bonus from the year card. If they have the start token, they also get that extra point.
+
+This mode makes you pay more attention to ownership of the camera and adjust your tactics to prevent the rangers from taking too many parks, or high scoring parks.
+When rangers end on the same trail end slot, they only get to take one park. But if they end on 2 different ones, they get 2 parks. So you either need to try and keep the parks they can take low scoring, or try to beat at least one of them to the end so the second ranger doesn't get to take an action.
+The rangers don't often make the bonus on their Year card but they have more chances to get parks so the year is just some extra difficulty for in cases that they do reach it.
+
+I also keep the rule that if you don't score 20 points in the end, you still lose, no matter what the ranger's score is. It should be easy enough to get at least 20 points, and it prevents you from “cheating” and trying to rush to the end so the rangers don't get any chance at all, which wouldn't be fun anyway.
+I love this! I got the wildlife expansion for Christmas and finally played some solo mode games. I look forward to trying this alternative out!
+Got a copy of the game and played it with a group of people who ended up also liking the game. Although me and some people felt that we somewhat rushed the game. I know the game only lasts for 4 rounds, we felt like we could use a 5th round to lengthen the game (which we didn't mind). What are the implications of this?
+Got a copy of the game and played it with a group of people who ended up also liking the game. Although me and some people felt that we somewhat rushed the game. I know the game only lasts for 4 rounds, we felt like we could use a 5th round to lengthen the game (which we didn't mind). What are the implications of this?
+I don't think I would add an additional trail spot for the 5th season. The biggest issue I foresee with this is that final scores will be larger, which means you lessen the impact of private goals, which are already not as impactful as I think they should be. FYI, I am referring to the base game only. I have never played with any of the expansions so I have no opinion on how it would affect those.
+I've always felt the game had a pretty well tuned run time. How long are your games going?
+With the people I have played it, the length of the game was right.
+A strategic implication is that more likely to go for gear early in the game.
+There are already a few 2-player variants that handle the problem that the 2-player board is too spacious and lacks contest. Most of these variants involve a ranger. I think there is a solution that also works (not playtested), but simpler:
+
+Remove one advanced tile out of four (wildlife, trade-2, park/gear, copy) at the start of the game. Reveal the removed tile.
+During the setup of each season, use zero advanced tile for season 1, one for season 2, two for season 3, three for season 4.
+
+Here I made the choice of "reveal the removed tile" because whether the removed tile is park/gear will change the strategy entirely.
+At this thread I will write one by one my house rule to make parks more appealing, in this case, are my play groub.
+
+1. Players hiker must move ahead to end trail when there is already X number of ranger reach the end trail. (X is number of players plus one). This variant increase the tension and make the game little bit faster.
+
+For example if you play with 4 player; when there is already 5 hiker reach end trail, the other hikers at trail only have one action, which is move to end trail.
+
+I have several variant, and I will add it when I have time.
+I have found that Incorporating a house rule inspired by the Nightfall expansion has added a positive twist to our game sessions.
+
+When playing without the expansion set, we introduce the "Buffalo" – the animal-shaped resource that looks like a buffalo– to the farthest left available park card.
+
+Upon visiting the park with the piece on it, players gain the opportunity to exchange one of their resources for an animal. Additionally, this encounter allows the visiting player to discard one of the available gear cards, which is then replaced with a new card from the top of the deck.
+
+As the game progresses, the piece moves to the middle card, and so on from left to right.
+
+This rule has injected excitement into our gameplay, especially during sessions with three or more players. It adds strategic decisions and keeps everyone on their toes, making each playthrough more engaging.
+The PARKS Second Edition gave me the idea to add a similar End Tile to this version, with a small tweak.
+
+Top row: Reserve or Visit a Park (1) | Activate one of your filled Canteens (2) | Gains the First Hiker Marker
+Middle row: unchanged
+Bottom row (3): Turn in 2 tokens to take a Photo | Gains a Wildlife
+
+(1) Mixed together the original Top and Bottom PARK Action
+(2) From the Wildlife Expansion
+(3) From the 2nd Edition
+
+What do you think?
+My wife and I have found, when playing 2-player, going first is too much of an advantage, and that unless the "Parks/Gear" trail segment is in play early enough there is too much of an opportunity cost to grab the first hiker marker. So what we do is, when playing 2P, shuffle in the "Parks/Gear" trail segment for the first season. (The other seasons' trail segments are random, of course.)
+
+Anyone else have this issue playing 2P and/or have a different solution for it?
+The Lookout Tile. I play Solo games. Someone else here mentioned it a while ago. I try to get the first player marker throughout the game. It can make a difference.
+I have played many times with my wife and have been second player probably about 75% of the time. It isn't too often that I feel the need to grab the first player marker and if I do, it's usually going into the last season. There are often multiple strong opportunities on the trail, so if my wife takes one, I'll take the next available. If she's jumping at a good opportunity early, I also might move slowly down the trail, looking to maximize (and diversify) tokens. As second player (in a two-player game) gets the camera, I also often look for opportunities to take advantage of taking pictures early.
+
+In the end, you should do whatever helps the two of you enjoy the game, but I would suggest trying to revisit the challenge of making the second player work. First player does have an advantage, but I don't see it as insurmountable.
+In 2P, doesn't the other player start with the camera? That is worth an extra resource, and needs to be contested by someone to prevent a cheap runaway victory—in a 2P game that someone is you!
+
+Also, there should be more trail spots available which means there are a lot of actions to take at end-of-trail. Normally reserving a park and take the 1st player is a consolation action when you haven't optimized your end-of-trail actions. It's only worth a VP (net 2VP in a 2P game) at the end-of-game, while the camera nets a VP for 1 less resource vs. the game economics at the end of every season.
+
+Finally, the first trail spot doesn't get a sun/water token which means the first player is heavily incentivized to skip that slot giving the second player an extra trail action to balance. Mathematically, it seems balanced, which was probably the intent of the design and the reasoning for these rules.
+
+Granted, I've only played 2P twice (was second player both times, won both times), so I don't know if there is some sure-win 1st player 2P meta that comes up with many plays. However, I've found that sort of meta is more likely than not to be a wrong-headed "table meta," especially when playing with the same players. Using 7 Wonders Duel as an example, people who play together often are the most common people complaining that there is some OP strategy (usually military victory or a commerce card strategy) when statistically recorded games report that culture wins ~50%, military ~25% and science ~25% just like the game was designed to.
+
+Perhaps use a bit of imagination to break the 2p- table meta trap you've fallen into?
+
+Granted, not including solo, I've only played seven times in total (mostly 4 or 5-player games). However, in all my seven wins, I've not found a consistent sure-fire strategy to my wins, and I only once started as 1st player (Chawzi FTW!). In fact, I've found I've need to be very flexible in my path to victory, letting the situation on the table be very determinative. (The need for the "park action" tile to pop early is a big red flag to me that there is some serious table meta going on. The strategy I play when that shows late and early are completely different since it changes the economics of the Park cards and the value of certain gear.)
+This is a 2-player variant for those who tire of playing against each other, or cannot add a third or fourth player.
+
+Summary
+
+Using most of the established rules in PARKS, a two-player team takes on Ranger Ron (RR) for most points. The two players will average their scores and compare to RR’s final score.
+
+Set-up
+
+During set-up, add the 3/4-player Waterfall tile plus 1 random (of the 4) asterisk tiles. Each season, add another random asterisk tile. However, remove the Waterfall tile for the third and fourth seasons.
+
+Deal Canteens and game bonus cards to human players as normal. Also deal 1 face-down game bonus card to RR. Do not look at RR’s bonus card until scoring at game end. Also give RR a campfire matching the color you selected for RR’s hiker.
+
+Turn order and rotation is determined randomly. For example, with a D6 a 1-2 result would be for RR, 3-4 for Player A, and 5-6 for Player B. This will determine the play rotation (clockwise or counter-clockwise) for the remainder of the game. This will also determine the turn order for the remainder of the game unless a player or RR, as applicable, steal the 1st Player medallion. The 1st Player medallion and camera are given to the first and second hikers, as applicable, whether they are human or RR.
+
+Play and Scoring
+
+Human players play and score as they always do, with the exception that as long as any other hiker is on the trail, a hiker will not be forced off the trail until they are the only hikers remaining on the trail.
+
+Some of Ranger Ron’s movements and scoring are borrowed from/inspired by the “Solo Automa” submitted by
+.
+
+For this 2-player vs RR variant, the AI (RR) has the following movement features:
+
+* Movement is determined by the topmost gear card drawn from the gear-card deck. For example, a 3-sun card is worth 3 movement tiles.
+
+* RR will use a campfire to visit spaces you occupy. RR does not need to extinguish a campfire to visit a space with another RR hiker on it. The RR campfire is relit when one of the RR hikers leaves the trail.
+
+* RR will take the camera from any player who currently has the camera when an RR hiker lands on Vista. RR also gets a photo any time an RR hiker lands on Vista. If RR has the camera at the end of a season when all hikers have left the trail, RR gets another photo. RR never has to pay resources to steal the camera or take a photo.
+
+* RR will take a Park card into their hand when landing on the Parks tile or at the end of the trail. Place this Park face-side down near the RR campfire so human players cannot see the Park any longer.
+
+* RR hikers will take into their hand any weather tokens located on trail tiles or Parks cards when an RR hiker gains those locations, as applicable.
+
+* When coming off the trail, RR will take the 1st Player medallion if it lands on the topmost trail-end space, or the camera if it lands on the middle trail-end space. If it lands on the bottom-most trail-end space, the 3-sun gear card pile is reshuffled into the gear-card deck.
+
+AI scoring is determined as such:
+
+* First, flip over the stack of face-down Park cards that RR collected. There should be a minimum of 8 of these cards, but possibly more depending on how many times an RR hiker successfully landed on the Parks tile during the game.
+
+* Flip over the face-down game bonus card you set aside for RR, and check to see if RR met the bonus conditions from the Parks or any photos collected during the game.
+
+* Add up the Park, Bonus card, photo, and 1st-player Medallion points in RR’s hand, as applicable.
+
+* Also add up all of the weather tokens RR collected during the game, and convert this to ½ point per token. For example, 16 weather tokens would equal an additional 8 points added to RR’s point total.
+
+Supporting Data
+
+We play-tested these rules, although admittedly the sample size of 10 games is fairly low. But the initial results looked promising, as we won 5, lost 4, and tied 1 match. The average score margin (between the human player average and RR) per match was a mere 1.35 points, underscoring the importance of keeping RR’s acquired Parks cards face-down to ensure a degree of uncertainty and suspense. The details for each match are shown below.
+Thank you for creating a PARKS coop! A few questions:
+
+1. Do you use set-up for solo play (minus the events) or for regular play?
+2. What happens when RR’s campfire has been used, and then he is required to stand on a tile with another hiker? Do you just skip that tile, like you do in traditional solo play?
+3. What do you mean by “Human players play and score as they always do, with the exception that as long as any other hiker is on the trail, a hiker will not be forced off the trail until they are the only hikers remaining on the trail.”?
+4. Is the parks-card that RR takes when landing on the parks-tile calculated in the same way as the one he takes at the end of trail, so by the number of suns on the trail card that landed him there?
+
+May come up with more questions when playing this more often, but thanks for now!!
+1. Do you use set-up for solo play (minus the events) or for regular play?
+It is hybrid set-up. It is set-up mostly like an all-human 3-player game, but you'll move RR using the gear cards, which is how the gear cards come out onto the main board. And no events.
+2. What happens when RR’s campfire has been used, and then he is required to stand on a tile with another hiker? Do you just skip that tile, like you do in traditional solo play?
+Yes . . . keep moving RR +1 beyond the occupied tile(s) until RR lands on an unoccupied tile. If one of RR's hikers goes off the trail then the RR campfire is re-lit and RR can once again join human hikers on the same tile.
+3. What do you mean by “Human players play and score as they always do, with the exception that as long as any other hiker is on the trail, a hiker will not be forced off the trail until they are the only hikers remaining on the trail.”?
+In regular solo, once both RR hikers leave the trail, the human solo player must then move both of their hikers off the trail. In this co-op version, the human hikers can stay on the trail after RR leaves the trail. Even if one of the 2 co-op human players has also moved both hikers off the trail, the remaining co-op human hiker can continue moving down the trail until only 1 hiker remains, at which point the final hiker must also come off the trail.
+4. Is the parks-card that RR takes when landing on the parks-tile calculated in the same way as the one he takes at the end of trail, so by the number of suns on the trail card that landed him there?
+Yes. You got it!
+May come up with more questions when playing this more often, but thanks for now!!
+You bet. Happy to clarify!
+Thank you so much for your very fast reply! Love this variant very much so far, only thing I didn’t like about PARKS was that it’s competitive. So this is great!
+Surprised to not see any threads about this, perhaps I missed something?
+
+Played a 5 player game and the start player seems to have quite an advantage. The 5th player at least gets the camera though that seems like a small benefit, but the the 4 the gets nothing and a crowded trail.
+
+Are there any good ways to balance this like giving later players starting resources like in other games.
+I have played many games at 4 player, and have never found a first player advantage to come into play. Can you explain more on why you think it’s a thing?
+The first player has full selection of spaces without using their camp. Second player has all but one choice, etc etc so subsequent players are more likely to be forced to use their camp to do something previous players didn't, and those players get to reserve theirs for later.
+
+Additionally the first player is more likely to reach the end first ask things equal in trail selection and therefore be the first player again.
+Additionally the first player is more likely to reach the end first ask things equal in trail selection and therefore be the first player again.
+I don't think this is the case. Some players will be forced to jump ahead, so they would be able to get there first.
+
+In a 4-5 player game, there is a lot more of strategy about when to use your campfire. Canteens are a lot more valuable since they can provide resources that you won't be able to get from the trail. Also, being able to know when to jump ahead and grab the first player token can be decisive.
+
+Playing with Nightfall, the camp site that lets you reignite your campfire is also a plus.
+Don’t forget, one of the tiles is used only in a 4/5 player game, and is shuffled in during the first season setup. So it’d be all the basic tiles, one random advanced tile, and the 4+ player tile making up the first season trail.
+
+If you and your game group still find it a huge advantage, if you get the Wildlife expansion it’ll add more trail sites, so you could try a house rule of adding x- number of trail sites.
+After all at the end of the day it’s just a game, the point is to have fun.
+Thanks, we did play with it thankfully.
+
+related to my previous post, perhaps the game just forces players in later starting positions to be more aggressive with running down the trail at the start, which perhaps I just also don't like.
+
+I'm realizing now that BGG does NOT recommend 5 player and barely recommends 4 player.
+Additionally the first player is more likely to reach the end first ask things equal in trail selection and therefore be the first player again.
+You mention this as a first-player issue but I've always seen the Reserve space as the consolation prize. The first player ought to be leveraging that turn order advantage to visit more parks. If they're willing to throw that away to just hold first player, I'm ok with that.
+They don't necessarily need to throw it away to do it. If all players play the same then the first player as much as any other would reserve and get the first player token, only they ALSO have the luxury of mot using their campfire until later in the season.
+
+Per your point though if first player lets your visit more parks then it kind of forces the other players to spend their effort and resources getting first player to have that advantage when the starting player got it through randomness not tactics.
+They don't necessarily need to throw it away to do it. If all players play the same then the first player as much as any other would reserve and get the first player token, only they ALSO have the luxury of mot using their campfire until later in the season.
+
+Per your point though if first player lets your visit more parks then it kind of forces the other players to spend their effort and resources getting first player to have that advantage when the starting player got it through randomness not tactics.
+Many things happen in the game due to randomness not tactics. If the first site on the randomly-constructed trail is undesirable to the first player because it doesn't (for example) work with the random draw of park cards, their random canteen, the random arrangement of gear, the random weather tokens, or their random year card, then they will need to make a decision based on the current state of all those random factors...not simply to go to the first trail spot. But they might choose to anyway.
+
+My point is that winning a game of PARKS is about responding to the game state every single turn, including the first one. So being the first player for the first move is sometimes going to be great and sometimes going to be crappy (like, you REALLY want to get to that fourth tile, but you have the opportunity to take any of the first three, but you know if you do -- to get an extra token or maximize your trail time -- players 2-5 will take what you REALLY want).
+
+Also, "barely recommended at 4" is still recommended. I agree, though, that it can be a bit of a slog at 5.
+...I've always seen the Reserve space as the consolation prize. The first player ought to be leveraging that turn order advantage to visit more parks. If they're willing to throw that away to just hold first player, I'm ok with that.
+...if first player lets your visit more parks then it kind of forces the other players to spend their effort and resources getting first player to have that advantage when the starting player got it through randomness not tactics.
+Hi Shane,
+I'm pretty sure that Stephen's point was that if you (as first player) end the trail by sending one of your two hikers to regain the First Player token (and reserve a Park) at the yrailend, this will largely offset the First Player Advantage that you are suggesting exists, as you will not be using that hiker to visit a park at the trailend (near to gain gear) - whilst your opponents can visit a park (or purchase gear) with both of their hikers.
+
+Understandable?
+Steve
+
+(PS played with 2, 3 and 4 which all work for me - although 4 is creaking a little. Never attempted 5.)
+I understand but all players have that same consideration. If none of them take it then the start player remains the first player with my stated advantage that they have unrestricted selection to start.
+
+If the 4th player is forced to do what you said, to gain that advantage, then they have the disadvantage of missing out from selections that season as you stated.
+
+What is creating l creaking about 4 player?
+Well you could always take a quick hike before the game starts.
+..If the 4th player is forced to do what you said, to gain that advantage, then they have the disadvantage of missing out from selections that season as you stated...
+Hi Shane,
+the player moving last has a much larger incentive to take the first slot, they have all the disadvantages you mention and, if someone else does not take the first slot, they will - in the first season - this use of a hiker is much more beneficial to them.
+
+It is the second moving player that benefits most from the first player repeatedly taking the first slot; they gain much of the advantages you've stated for the first player, without the disadvantage of sending a hiker to retain their move position that the first player has - if they follow the strategy you have described.
+Steve
+...What is creating l creaking about 4 player?
+Hi Shane,
+at four players we find the number of options decrease because so many slots are occupied, and we find that our games progress more slowly. For us, the fun to minute ratio decreases. It's not a serious problem, we just prefer 4 or or 6 hikers on the trail (optimal fun per minute ratio).
+Enjoy!,
+Steve
+I'm realizing now that BGG does NOT recommend 5 player and barely recommends 4 player.
+Even if my favorite number of players for this game is 3, I usually play it with 5 (every time I take it to some gaming meeting, everyone wants to play).
+
+Two players is like a walk in the park, they barely collide. Three is a good number to get into someone else's way sometimes just to spice things up. Four or five is a completely different game, where every decision counts. You'll be constantly colliding with someone.
+Hi! We love how the photos are images from the park cards and so a little house rule we play with is that you get a bonus point if you take a photo and it matches a park you’ve visited. It makes you really pay attention to the artwork!
+
+Another rule with play with only when we feel reckless is that if someone takes a photo and it matches a park someone else has visited, the photo-taker gets to steal their park (because, if you took a photo of it, you must have visited! ), we know this is ridiculous and just luck but it’s fun.
+
+Anyone else do house rules for matching photos?
+What neat ideas!
+Those are fun ideas.
+
+You could get a bonus point if you can name the park that's on the photo. I was doing a solo mode video that was showing the parks cards that are on the trail tiles and backs of the card decks. Some of them are cropped so tight it's hard to tell at first.
+
+Keep drawing until you can't name a park like you're using a motor drive on the camera (it takes more than one photo). yeah for a static landscape shot lol or if it has a wildlife then do that for the subsequent photos since a camera motor drive makes more sense for a bird taking off for example.
+We play almost the same rule. When any player takes a photo and it matches a park, the owner of the park gets the point.
+That way you can give a point to another player and it's risky but not too punitive. Usually it doesn't make much of a difference to the end score, but sometime it can!
+The aim is still to have a deeper look at the pictures as they deserve it.
+
+We find that the pictures on the photos and the pictures on the cards are exactly the same scale so it's a bit of a puzzle game at the end and it's surprisingly rewarding and fun.
+We find that the pictures on the photos and the pictures on the cards are exactly the same scale
+Some of photos are not the same scale (e.g., Bryce Canyon, American Samoa, Yellowstone, Everglades).
+
+I count 28 base game parks that have matching photos: Yellowstone, Yosemite, Sequoia, Mesa Verde, Rocky Mountain, Lasser Volcanic, Denali, Bryce Canyon, Everglades, Olympic, Kings Canyon, Isle Royale, Big Bend, Guadalupe Mountains, Capitol Reef, Arches (both), Theodore Roosevelt, American Samoa, Wrangell-St. Elias, Kenai Fjords, Gates of the Arctic, Glacier Bay, Biscayne, Badlands, Saguaro, Joshua Tree, Congaree.
+Hi everybody
+I have found a new way to use the 4+ player tile at any player count. The tile says that the player can take a token of sunshine and water whenever they land on it. But in this variant, it allows the player to take only one token of their choice i.e sunshine OR water.
+I have played with this variant and it turned out pretty well. Lemme know your thoughts and suggestions!
+I think it is little bit underwhelming to visit that trail, the reason is, Sun and Water has value of 1, in term rarity and uses, where Forest and Mountain has value of 2, and Wildlife has value of 4. By only choosing one sun or water, you make the tile only generate 1 value token, where the other resource generate trails have 2 value token.
+Multiple Year Bonus Cards
+The Year Bonus between 2 and 3 doesn't really make a difference, plus unlucky player may never get a suitable year bonus cards.
+
+1. Year Bonus Points * 4
+
+2. At River and Lookout (where one can buy gears), players can also draw 2 Year Cards and keep 1. Cost: 3 Tokens.
+
+3. One can keep multiple Year Bonus cards. Only one comes into effect in the game end. (4-time bonus).
+More Effective Gears
+Particularly for the nightfall expansion, the year end bonus will grow incrementally with the number of park cards. One who acquired 12 park cards has obvious advantages over the other who acquired 9 park cards and 3 gear cards. Not to mention gear cards might not be always applicable or there might not be any good gear cards revealed.
+
+1. Use only 3-sunshine gear cards for 1 or 2-player gameplay (or even for 3).
+
+Use gear cards of 2 & 3 sunshine for 3 or 4-player games. (or any preselected cards, 5 times player count should good enough.
+
+2. Buy multiple gear cards at a time:
+
+Players can spend 3 sunshine and 3 any other tokens to draw one gear card from the deck, and from the 4 revealed gear cards choose any number of gear cards that cost up to 6 sunshine in total, for example 2 cards of 3 sunshine, or 3 cards of 2 sunshine. There is only one chance per player per season. First gear purchase at trail end cost 1 sunshine less.
+We played our first 2-player game of PARKS this morning after playing a 3-player game the other night. Long story short, I found the game much more interesting at three players.
+
+With two, I felt there was little resistance to me just doing whatever I felt like. Maybe I'd have to burn a fire here or there, but it felt like there was a lot of room.
+
+I'm wondering if anyone has experimented or would experiment with a simple 3rd-player bot that cramps the game space up a little more, and if it might be enjoyable. I can test it next time we play but what I was thinking was:
+
+* Add a 3rd color hiker that always goes after the two players
+* On its turn, it always moves its rear most hiker to the next open space
+* In the Vista, it always takes the camera
+* Turn the Parks and Gear into a queue (first in first out), and when the bot lands on a Park/gear action it alternates between taking the first park and the first gear.Players of course can still select any of the available cards.
+
+It wouldn't ever have to score any points, it would just get in the way of the other players.
+
+My questions are:
+* Am I jumping the gun? Is this game more fun at 2 players than I'm giving it credit for?
+* Are there any glaring issues with this idea?
+I would defintely agree that the game feels better at 3+ than it does at 2.
+Maybe play the first season without a "special" location? So only the beginning 5 tiles (mountain, forest, valley, ocean, and vista), and then add 1 special to the second and each subsequent season (so you never see the last remaining special tile)
+
+That might tighten up the game somewhat for two players.
+Haven't tried it yet, but using solo rules in 2 player games to make them more tense seems reasonable. This effectively adds another pair of Rangers blocking the spots and gathering weather tokens. With additional events that in 2p games could negatively affect both players.
+In Tokaido, which of course uses a similar movement mechanism albeit with one worker each, the 2P game always uses a dummy piece. When the dummy is at the rear it is moved by the player who is in front to simply block spaces. I don’t have PARKS yet, so there may be something obvious that makes this unsuitable, but something like this may be worth trying?
+I'd love to know if anyone has tried using solo rules, but with two players (i.e. 2 human players and the solo rangers).
+
+It seems like more meeples on the trail would make the game more interesting for those who commonly play with only two human players.
+
+Any thoughts beyond just playing the rangers every 3rd turn? Does anything need to be changed to the solo rules to make this work?
+I'd love to know if anyone has tried using solo rules, but with two players (i.e. 2 human players and the solo rangers).
+Yes, we've been playing 2p games with rangers last couple of times, but not directly with solo rules.
+
+There are couple of issues with solo rules applied to 2p games unless you want to make the game quite challenging.
+
+1) Because Rangers skip any space with player meeples, and in 2p games there are 2 times more meeples on board, Rangers go forward quite fast, skipping a lot of spaces. This makes the drawing gear cards to make them move less interesting, as they will usually just skip ahead anyway. Also, they end up in the trail end quite fast.
+
+2) If (by the solo rules) you let Rangers close the parks (discard a park card and not draw another), by the time 2nd ranger reaches the end you are possibly left with only 1 park available. Which is quite limiting for 2 players. And it may happen fast because of point 1)
+
+3) If (by the solo rules) when both Rangers are on trail end you just let players have only 1 turn to go directly to trail, it's again very limiting. Rangers can get to trail end very fast, leaving players with very limited resources and one random park to visit or reserve.
+
+4) And for the last thing that opposed to previous ones makes 2p Rangers less challenging than solo, are Events. Because there are more meeples on track, and Rangers move fast, they gather less sun/water on their way triggering events less often. To the point where they can barely trigger one event per season, triggering 2, max 3 events in whole game. And, when it comes to events, we played that they affect both of the players.
+
+In theory you could play like that, for us it stripped quite some fun from the game. We weren't able to decide on the pace of the 'race', we would just need to run after Rangers and do whatever we can with very limited resources.
+
+So to "scale" Rangers to 2p game I introduced couple of home rules:
+
+We mostly treat Rangers as 3rd player.
+To address 3) - Rangers don't force players to go to trail end. Only the last meeple on trail in forced to go straight to the end (as in multiplayer games).
+To address 2) - Rangers, when discarding parks at trail and (as per solo rules) don't block these spots, so new park is drawn in this place. Just as a player would visit or reserve it.
+To address 4) - I continue the weather pattern into trail end tile (put sun/water there), and this resource is available for the first Ranger (not player) that gets there. This generally made it possible for Rangers to trigger one event per season.
+
+These modifications made the 2p games with rangers pretty interesting already. The drawback of these changes is, that it doesn't matter if Rangers go to trail end fast. Actually, it's pretty good for players when rangers go fast, because they don't block spaces on the trail anymore. And because many events make rangers move forward faster - these events have almost no impact on the game now.
+
+I haven't really found a way around that yet. I'm thinking about ditching events completely or making Rangers reaching trail end matter more (which may be hard to balance as they reach the end quite fast when they skip player spaces). Maybe Rangers when they are both at the end of the trail on their turn would start closing parks (discarding without replacement or flipping over the cards)?
+I haven't tested letting Rangers stop on spaces with player meeples (maybe giving Rangers camp fire, so they can only share space once, just as players)?
+
+There is also a bit of fiddlyness around player order when first player marker moves around.
+We start the game in a way that one player has the marker and goes first, other player has a camera and goes second, Rangers go last. But in the course of the game Rangers can get the first player marker and go first. From that point order needs to be clockwise somehow (so Rangers need to have a 'place' around the table). But then, when any player gets the first player marker, do Rangers go always last again, or by this fake 'clockwise' order?
+
+So, as you can see, while playing with Rangers in 2p game is certainly possible, and seems to improve the experience giving it more of a 3+ players game feel, it does come with some issues that you need to house rule around. But if you are up to that, I totally recommend it.
+Update here. We played again with 2 players and it went better. The difference this time was that the Lookout (Parks action) came out in the second season instead of the fourth. The game was more fun when we had more to do with the much greater amount of resources we were bringing in.
+
+I think if we play a house rule it will be to stack the action tiles such that Lookout always comes out in the first or second season. A much more subtle change.
+What we play as a 2p variant:
+- at the beginning of each of the 4 seasons, determine randomly (e.g. via dice), on which path to place the 2 rangers. They just remain there until the end of the season. That means one has to use a camp fire to go there.
+- if at least one of the rangers is placed on the spot with the park symbol (lookout) or on the photo spot, refresh the market (parks, items).
+- thus, the rangers are used more for blocking than for putting time pressure on the players, than in the solo game, but since there are 2 players, who put a bit of pressure on each other, that's ok.
+- optional: when one player has both meeples at trail's end and the other has both meeples behind the last ranger, then this player also has to end it's round/season and gets only one season end action.
+- optional: scale blocking and likelyhood of market refresh by the number of rangers used (0-n)
+I'm normally not a fan of houserules. I'm a bit weird in that I don't like to play a game by any rules which the designer didn't include or bless. However, I'm making an exception here, and wonder what people think... is such a variant as this needed, or am I seeing an issue where there isn't one? See the end of this post for why this variant came to mind.
+
+Anyway, here's the variant... it comes in three forms. All serve to cycle the Gear cards more quickly than experienced with the normal rules.
+
+Variant A: At the end of each Season, place a Sun Token on each of the three face-up Gear Cards on the board. If the number of tokens on a Gear Card is equal to or less than the card's printed cost, they serve as a discount when buying that Gear card. Any tokens on the card which are excess to the card's printed cost may be gained by the player per normal rules for gaining tokens.
+
+Variant B: At the end of each Season, discard the leftmost face-up Gear Card from the board (the card farthest from the draw deck). Slide the other two Gear cards to the left and draw a new Gear Card to fill the open slot.
+
+Variant C: At the end of each Season, discard all face-up Gear Cards from the board. Draw new Gear Cards to fill the open slots.
+
+
+Why did these variants come to mind?
+During my last game (four players), it happened that three 'Wide Angle Lens' Gear cards were dealt to the Gear "shopping row" during setup.
+No one wanted them.
+So they sat there for almost three seasons, until someone "took one for the team" and bought one during the 3rd Season via the 'Lookout' Trail Site action. They didn't want a 'Wide Angle Lens' either, but were more motivated to simply cycle at least one card through the shopping area out of sheer curiosity to see what comes next.
+
+Now of course this was an edge case! There are only four 'Wide Angle Lens' cards in the deck, so getting three of them during setup has a very low probability. But still, it happened. And there are other combinations of three Gear Cards which may not be very attractive for players for a particular game. Thus the idea of either incentivizing, or forcing the cycling of cards was born!
+I played a game yesterday where something similar happened. None of the gear cards on the board were too appealing but I ended up buying one just for the hope that the next one would be better. I'm liking the idea of variant B. May have to test it out.
+I just received my KS copy, and have read through the rules twice, but haven't played it with the family yet. However, I think Variant B is innocuous enough that it wouldn't hurt any of the balance of the game, like A might. And C might cycle them too quickly, or would be more likely to reveal 3 identical gear cards at the same time, instead of one at a time.
+
+Regardless, I'm going to try incorporating Variant B in our first play and see how we like it.
+Perhaps you should discard un-bought gear and get draw new gear at the start of a new season?
+I'm normally not a fan of houserules. I'm a bit weird in that I don't like to play a game by any rules which the designer didn't include or bless.
+Actually, I suspect that is the norm. Not weird at all
+
+Since it was setup, I probably would have just picked them all up, reshuffled, and re-dealt the setup cards.
+I kind of like B; second choice would be C...
+I think it is worthy of using.
+Core Worlds has a mechanic where any cards remaining in the store gain a token at the end of the round. This serves as an additional resource you will earn with a purchase. Looking at your suggestions, this could be a discount instead. After the next round, any cards that already have a token on them are discarded first.
+Core Worlds has a mechanic where any cards remaining in the store gain a token at the end of the round. This serves as an additional resource you will earn with a purchase. Looking at your suggestions, this could be a discount instead. After the next round, any cards that already have a token on them are discarded first.
+That sounds like Option "A". But you say to let them stay with a token for one Season only, instead of collecting tokens?
+During our first game, we came up with variant C ourselves. We're also wondering if the Parks should be cycled also
+We were thinking of cycling all 3 Gear cards and all 3 Park cards at the end of each season.
+We came to the conclusion of using Option B ourselves, and like yourself, we nearly never add a houserule to a game. In fact this is the only one that comes to mind.
+
+Even at that, we've noticed the two remaining seem to continue to block the rotation. I like the idea of dropping a bonus resource on these for extra incentive, will try it out.
+I like your ideas! I've had this problem too and not with just this game but any game that has cards displayed that nobody would take, such as games like Clank!.
+
+Here is what I've found:
+Variant A: Too fiddly. I don't like to deal with tokens if I don't have to. There must be a better way.
+Variant B: This is closer to what I do but I don't do it for every Season because that becomes arbitrary since someone may want the leftmost card!
+Variant C: Again, someone may be saving up to get next season! Also, this makes the game more luck driven because there is less planning involved.
+
+If nobody buys a card for the Season, I remove the leftmost card. Next, I slide all the cards down to the left and then, flip over a new card that is closest to the deck. This process allows the newest card to remain while remove the oldest card! I've found this to be the best option.
+If nobody buys a card for the Season, I remove the leftmost card. Next, I slide all the cards down to the left and then, flip over a new card that is closest to the deck. This process allows the newest card to remain while remove the oldest card! I've found this to be the best option.
+Isn't that exactly the same as "Variant B"?
+If nobody buys a card for the Season, I remove the leftmost card. Next, I slide all the cards down to the left and then, flip over a new card that is closest to the deck. This process allows the newest card to remain while remove the oldest card! I've found this to be the best option.
+Isn't that exactly the same as "Variant B"?
+Variant B always removes a card at the end of the season, while his variant only does so if no one bought gear that season.
+
+
+If I were to apply a variant, I think that I would go for a variation of Variant A. I would remove the gear with tokens equal to it's cost.
+If nobody buys a card for the Season, I remove the leftmost card. Next, I slide all the cards down to the left and then, flip over a new card that is closest to the deck. This process allows the newest card to remain while remove the oldest card! I've found this to be the best option.
+Isn't that exactly the same as "Variant B"?
+Variant B always removes a card at the end of the season, while his variant only does so if no one bought gear that season.
+Ah, got it! I missed that nuance on my first reading. Thanks for clarifying.
+We also always play with Variant C in order to get more choice of gear on the table
+Here's another idea, similar to 'Variant A', inspired by some game I saw a video of, but can't remember.
+
+Variant D: At the end of every season, put a sun token on each gear card in the market. You get this while buying the gear, and can use it as a discount to pay for the gear. If a card already has a sun token on it, then instead of adding a second sun token, discard the card (and the sun token that was on it).
+
+This incentivizes gear that has been in the market for a bit, but also trashes it if no one still takes it. It does alter the balance a bit in favor of getting more gear, but that just makes the game much more fun, in my opinion.
+I’m going with Variant D for our games.
+Here's another idea, similar to 'Variant A', inspired by some game I saw a video of, but can't remember.
+
+Variant D: At the end of every season, put a sun token on each gear card in the market. You get this while buying the gear, and can use it as a discount to pay for the gear. If a card already has a sun token on it, then instead of adding a second sun token, discard the card (and the sun token that was on it).
+
+This incentivizes gear that has been in the market for a bit, but also trashes it if no one still takes it. It does alter the balance a bit in favor of getting more gear, but that just makes the game much more fun, in my opinion.
+I'm normally not a fan of houserules. I'm a bit weird in that I don't like to play a game by any rules which the designer didn't include or bless. However, I'm making an exception here, and wonder what people think... is such a variant as this needed, or am I seeing an issue where there isn't one? ...
+Variant B: At the end of each Season, discard the leftmost face-up Gear Card from the board (the card farthest from the draw deck). Slide the other two Gear cards to the left and draw a new Gear Card to fill the open slot....
+Hi Barry, Neil,
+After 7 games we're beginning to wonder if there is a need for variant B. Like Barry, I dislike houseruling over the designers intent and playtest results. I like the fact that in B the gear left unwanted for longest disappears. That said, we have tended to see a flurry of Gear purchasing in the first season and little thereafter, in order to maximise the return on the investment and a mid- to late-game focus on visiting Gear-relevant PARKS (very thematic). Blockages only occur when no-one wants the Gear dealt at set-up. But those games have been interesting in a different way - requiring different tactics, and purchasing less PARKS by the end of the game. Less points but still with a winner. So, we'll be continuing with the design as is for now.
+During our first game, we came up with variant C ourselves. We're also wondering if the Parks should be cycled also
+May I suggest that by adding a variant after one game, you've missed out on the tactical puzzle of games without significant Gear?
+
+Regarding cycling PARKS at the end of the Season. Given that most visiting occurs toward the end of the season in the early game, will this just cycle PARKS out of the game before anyone had a chance to visit them?
+
+Less so with more players but at 2 player we find it not uncommon to visit a park using tokens collected in the previous season. We do only a little reservation of PARKS. Cycling PARKS at the end of each season as suggested would eliminate this planning and make our game more random.
+Have fun,
+Steve
+We've had a few games where the gear stalled out. I think it is a problem because it doesn't just happen at the beginning and then everyone is playing with no gear. That would probably be fine.
+
+Instead, what happens is that 1-2 players buy some gear and then the new gear that replaces it is not desirable (for whatever reason), so the gear becomes stalled. Now the players who bought gear (that they actually wanted) have a big advantage over the other players who have no gear left to buy; aside from gear that they don't want. And it is suboptimal play to buy gear you don't want just to rotate new gear in that may be better since other players will likely be able to buy the new gear before you get a chance to (and you wasted a valuable turn where you could have visited a park instead), so no one usually does that.
+
+Maybe a mechanic called "clerk checks in the back" could work - if you declare you are buying gear, you can pick one card to discard and replace it with a new gear. You then HAVE to buy 1 of the 3 items, even if the new one is still not what you want. That might at least help alleviate the staleness because you can take a calculated risk and try to get something better, that no other player had the option of buying yet, but you might also get something you didn't really want and now have to buy something, which will also help cycle the cards. And players could also use it strategically, if they want to buy Gear Card 1, they could discard Gear Card 3 (that a rival might want), and then still buy Gear Card 1.
+
+You'd want to stipulate that you can't take the action if you don't have enough suns to buy something from the original cards (so that if there are all 2 or 3-sun gear on the board, a player with 1 sun can't discard and hope the new card is 1 sun, because if it's not, then he can't buy anything. That player also cannot discard the only 1-sun gear because, again, it might end up in a state where he cannot buy anything after doing so).
+Our simplest version, The top card of the draw deck is face-up, giving 4 cards to choose from.
+Our simplest version, The top card of the draw deck is face-up, giving 4 cards to choose from.
+Hmm... that's a new one. And interesting!
+With the expansions there are already a couple of ways to recycle gear: the bison and a tent site.
+Yes, I realize that I am "late to the game" but just wanted to add my 2 cents. We house ruled this after a couple of games. We came up with Variant C-changing out the gear cards at the end of every season. I like this for 2 reasons: 1. sometimes you get a couple of "crappy" cards that no one wants and if so then the cards never change up. We've played a couple of games were no one bought gear cards and they sat there all game long, which is no fun. 2. it can make your Trail End decisions harder if you know that a gear card, that you want, is going to go away at the end of the season.
+- Responding to the invitation from BGG user @mdcall, “Would love to issue an open challenge for someone to go create an integrated experience between PARKS and TRAILS - that combines the spirit of both games into something that is more than just the sum of the parts! Not sure it can be done, but for me TRAILS was just 'nice', but not enough. If I could combine in some creative way with PARKS (+ Nightfall), however, now we are talking.” https://boardgamegeek.com/thread/2674627/open-challenge-trai...
+
+- Also answers a similar recent question from BGG user @ingof, “Can TRAILS be combined with PARKS?” https://boardgamegeek.com/thread/2847886/can-trails-be-combi...
+
+- It was really important personally in this undertaking to try to find a way to successfully integrate some of the unique aspects of TRAILS in the PARKS game series — the awesome badge cards, the three new resource types, and of course the adorable bear meeple and the dice — in a way that would would ensure not only that they still receive adequate attention and gameplay in the new version, but also even more vitally that they not seriously interfere with the balance of the existing PARKS game.
+
+- All TRAILS modules below are compatible with the base game alone, as well as when used with the Nightfall Expansion and/or the upcoming Wildlife Expansion. All of these TRAILS modules can also be used individually or in any combination, including all 4 at once. The modules are presented in order of increasing difficulty/complexity and divergence from the base PARKS game rules.
+
+- Answering this challenge was a fun and interesting endeavor, so I hope someone out there wants to try some of these modules out for themselves, and has a good experience. A lot of time went into them, and we’ve had some positive results so far in our house, bringing these modules into real-life gameplay. Even with all four TRAILS modules and the Nightfall Expansion at once, the experience playing has been quite fun, and not much more complex for us than the base PARKS game. It also hasn’t seemed particularly unbalanced, at least with our 2-3 players (though player action choices and paths to victory have further accumulated, and all players’ final point totals will be noticeably amplified). Will continue editing this post as further playtesting and comments/feedback help refine the rules.
+
+
+* Module 1: Canteen Tokens [1-4 Players] *
+
+- Each player begins the first season with one of the cardboard canteen tokens from TRAILS, matched to the closest player color as their big PARKS hiker pair (white, blue, green, and pink/purple)
+
+- The canteen token can be used by a player once per season as part of their turn, as a free “fill canteen” action to gain the benefit of any one of their canteen cards, without costing the player a water resource token that was acquired on the same turn.
+
+- The filled canteen card from this action will have a water resource token placed on it from the table supply. If there are no water tokens left in the supply, then the canteen token can’t be used until there is water available again.
+
+- To use the canteen token the player will flip it to the side showing the canteen drained of water, much like how the player’s campfire token works from the PARKS base game.
+
+- At the end of each season, any canteen tokens used are refilled (flipped back to the full side). Canteen cards are resolved as they would be normally at the season’s end.
+* Module 2: Photo Cards [1-5 Players] *
+
+- When setting up the game before the first season, swap out the cardboard photo tokens with the deck of photo cards from TRAILS.
+
+- Players will acquire photo cards from any and all of the photo opportunities in-game, including use of the Vista trail site, gear cards, Nightfall parks, campsite tiles, the end of season camera bonus, canteens in the upcoming Wildlife expansion, and any opportunities involving TRAILS Module #4.
+
+- Taking a photo by any means involves acquiring a photo card according to the TRAILS rules. Players will either (a) draw two cards from the deck, pick one and discard the other; or (b) take the photo card from the top of the discard pile.
+
+- Photo cards are each worth some combination of 0-3 points and 0-2 birds. At the end of the final season, the player who has the most birds seen in photos across their cards will earn the “bird trophy” just as they would in TRAILS, worth 4 bonus points.
+
+- Unlike in TRAILS, players will keep any acquired photo cards stacked faceup, staggered so that the other players can see their resulting points and birds.
+
+- Birds on photo cards don’t count as wildlife for the year-end bonus from the corresponding Nightfall year card.
+* Module 3: TRAILS Hikers (using alternative system for “Reserve a Park”) [2-4 Players] *
+
+- Each player begins the first season, in addition to their paired hikers from PARKS base game, with one of the smaller wooden hiker meeples from TRAILS, matched to the closest player color as their hiker pair (white, blue, green, and pink/purple).
+
+- The TRAILS hiker will serve as a player’s reserve marker. Whenever a player chooses to take the “Reserve a Park” action by any means, they will not be taking a faceup park card from the display into their private area, as they would in the PARKS base game. Instead, the player places their TRAILS hiker meeple on the park card they are reserving, at the top right corner of the card.
+
+- More than one player may make a reservation on a single park card, with the TRAILS hikers lined up along the top edge in the order in which the player made their reservation (right to left with rightmost position being first place, similar to the big PARKS hikers on the main trail itself).
+
+- When a reserved park is finally visited by any player, the first player who made their reservation receives from the visiting player the first of every resource type, that was specifically depicted on the card, and that the visiting player also actually paid to visit the park. The second player gets the second (if any) of each resource type, and so on.
+
+- For example, a park card that costs one forest, two sun, and three water would (at most, if the visiting player paid with exactly the resource types/numbers depicted on the card) give to the first reserved hiker’s player a forest, a sun, and a water, the second hiker a sun and a water, and the third hiker only a water.
+
+- This reservation system will allow a player who visits a park to get some of their resources back right away when visiting, if they made a reservation on the park beforehand.
+
+- If any weather resource tokens (sunshine and/or water) were placed on a park card, by either of the two season cards that have this effect, then the first player to make a reservation on that park card will immediately receive any and all weather tokens on said park. If no reservations were made beforehand, then instead the first player to visit this park will be the one to receive those weather tokens.
+
+- While it’s not particularly beneficial strategically under this system to be the 4th, 3rd, or possibly even the 2nd hiker reserving the same park card, reserving can still be worthwhile in general, especially to earn scarcer and thus more valuable resources like forests and mountains (and even wildlife, for the first reserving hiker on some of the new park cards in the upcoming Wildlife expansion).
+
+- With only one TRAILS hiker in each color, a player can only have a single park reservation active at any time. When a park card is visited, removing it from the display, any TRAILS hikers that were on it are returned to their respective players, alongside whatever PARKS resources they have earned via their reservation.
+
+- The first player each season to use the Trail End tile to make a park card reservation will receive the first player token, for the next season or endgame point bonus, in accordance with the base game rules.
+
+- Optional further variant, if playing with the TRAILS Module #2 (Photo Cards): Players may add back into play during setup the 1-pt. cardboard photo tokens from the base game, with a new function. While the tokens will still count as a photo for any relevant year-end count bonuses, photo actions taken by players will only result in the acquisition of the photo cards. The photo tokens can only be acquired by reserving parks, since the first player to make a reservation, on a park card that corresponds to (is depicted on) one of the photo tokens, will immediately receive that token. The photo token can later be stolen by whichever player eventually visits the corresponding park card, but only if they also have an active reservation on that park card before visiting.
+* Module 4: Badge Cards (w/ TRAILS resources and Dice) [2-5 Players] *
+
+When setting up the game before the first season, add in from TRAILS:
+- A community tray with the three new types of resources (rocks, acorns, and leaves)
+- The “Wildlife Die” - we will refer to this from here on as the “Day-Hike Die”.
+- A display of three faceup badge cards, with the remainder shuffled into a facedown deck beside those cards. Must remove beforehand from the badge deck the “Sunshine” and “Climber” badge cards (worth 5 and 6 points respectively, with three copies each).
+- The bear meeple (black). Place this bear on the base game “Trailhead” tile, with the PARKS hiker pairs.
+
+Every player’s turn will now have two phases each time around, in the following order:
+- (1) First the player will roll the Day-Hike Die and resolve its effect [see below for descriptions of the die faces].
+- (2) After “returning” from their day hike, player will proceed with their normal PARKS turn action, moving one of their paired hikers down the main trail and resolving the trail site’s (or campsite’s) effect.
+
+The faces on the Day-Hike Die correspond to the following actions:
+- Rock; player will receive one rock resource token from the supply.
+- Acorn; player will receive one acorn resource token from the supply.
+- Leaf; player will receive one leaf resource token from the supply.
+- One cube => two cubes (aka “Exchange”); player may choose to swap any one PARKS or TRAILS resource (sunshine, water, mountain, forest, wildlife, rock, acorn, or leaf) for a matching pair of a different TRAILS resource (rocks, acorns, or leaves).
+- Photograph; player may either (a) take the Camera OR (b) take a photograph (at the normal cost of any 1-2 resources, depending on whether or not the player already has the Camera beforehand).
+- Black Bear: player will take the Black Bear action [further explanation below].
+
+Earning Badges:
+- To earn a badge, a player must “hang back” for the day, at the ranger station / visitor center, just as one would in real life, to ensure they met the merit badge’s requirements and to participate in the recognition / swearing in ceremony.
+- “Hanging Back” happens after the player has rolled the Day-Hike Die and completed its action, meaning the player will be skipping the second phase of their turn. Because they are forgoing their normal PARKS turn action, neither of their paired hikers will move down the main trail, and thus no trail site (or campsite) will be visited to have their effect resolved by the player.
+- The player must turn in the necessary TRAILS resource cost as shown on the badge card. Some badge cards have abilities written on them, that allow their resource cost to be reduced for certain players.
+- Wildlife resource tokens (brown) can take the place of any 1 TRAILS resource when earning badges, just as they do when visiting parks.
+- When hanging back, a player may only earn a single badge on that turn, unless the badge card earned has an ability on it that says otherwise.
+
+Black Bear:
+- When the Black Bear is rolled on the Day-Hike Die, the player will first (1) move the Black Bear meeple to a new location on the trail, and then (2) treat the die face as “wild” by choosing to either (a) replicate the action of any 1 of the other 5 die faces, or (b) earn a badge card from a display without having to skip the second phase of their turn (which they may still also choose to do then, in order to earn a second extra badge card on their turn).
+- The Black Bear must be moved to a new trail site tile every time its die face is rolled.
+- Players may move the Black Bear to whatever trail site tile they like (not including the Trailhead or Trail End), whether it is empty or is already occupied by one or more of any player’s hikers (or a Nightfall campsite tent).
+- Unlike in TRAILS, moving the Black Bear to a trail site will not give that player the ability to activate the trail site’s effect.
+- The Black Bear’s presence on a trail site tile is just like having a hiker there. Thus, any player wishing to move a hiker to a trail site occupied by the Black Bear will have to use their campfire.
+- Any player who moves onto a trail site occupied by the Black Bear using their campfire will get a free wildlife token for their trouble (no resource exchange for the wildlife necessary).
+- Any player who already has one or more hikers on a trail site when the Black Bear moves there will immediately have the opportunity to trade in any 1 resource for a wildlife token. Players may only get 1 wildlife token this way, even if both of their hikers were on that same trail site at the time.
+
+Accounting for additional resource types and demands:
+- Players will retain their token limit of 12 for PARKS resources, with the addition of a token limit of 6 for TRAILS resources.
+- Since Wildlife tokens can be used in place of any other resource, they can be counted by a player toward either of their token limits at any given time.
+- Altogether, a player can be in possession of no more than 12 park resources, 6 badge resources, and 18 resources total. Any resources in excess of these limits must be discarded at the end of the player’s turn, the choice of which to discard being left up to the player’s discretion.
+- TRAILS resources may be used toward the PARKS 1/2/3/4 brown square icon resource costs for park visits, photo taking, etc. — including at the Lodge trail site, where rocks, acorns, and leaves can both be put in or gotten out.
+- Game is played with the officially-recommended “Wildlove” rule variant, where wildlife will count as 2 resources toward brown square “any resource” costs.
+
+Endgame & Scoring:
+- The player who has the last hiker out on the main trail and gets sent to “Trail End” gets an extra opportunity to roll the Day-Hike Die.
+- Birds on badge cards don’t count as wildlife for the year-end bonus from the corresponding Nightfall year card.
+- When playing without the TRAILS Module #2 (Photo Cards), the bird trophy will not be used. The only function of the birds on badge cards will thus be the “2-pts. for having the most birds" bonus on the “Observer” badge cards.
+- There will be a ranking-based endgame bonus for each suit (type) of badge card. A player will receive a 2-pt. bonus for having the most of any of the 3 badge types (most acorn badges, rock badges, and leaf badges). Players may receive points for earning the ranked bonus for two of the badge suits, or even all three. If any single suit bonus is tied between 2 players then each will get 1-pt., but if tied between 3 or more players then no one gets any points for that badge suit bonus.
+- “Science” badge cards, with the ability of being all three suits at once, will count towards all three badge suit totals for that player at the same time.
+- After all points have been tallied, the number of badge cards comes directly after number of parks cards in tie-breaking priority.
+Thanks so much, I can’t wait to dig in!
+Sorry. I don't know much about trails. Does your variant use the cool day/night cards? If so, I'm going to Target tomorrow and buying,
+Depending on how many of the modules are adopted, then all of the cards (photos and badges, except for 2 badge types) will be used. But I think you’re talking about the 5 trail tiles from TRAILS that flip over between day and night sides, which are not used with any of the four modules I designed.
+
+This is because they are so much larger than the trail tiles from PARKS (as well as being a different shape), and would make the trail the hiker pairs go down each season too long anyway, so I ultimately concluded that those were the only TRAILS components that were not compatible with the “Deluxe Edition”.
+
+However, the 5 TRAILS trail tiles all correspond to faces on the Wildlife/Day-Hike Die, which is the basis for my Module #4 (which I’m most proud of), since finding a way to incorporate the Rock/Acorn/Leaf actions was a necessity, to be able to bring the Badge cards into PARKS gameplay in the most smooth/balanced way possible. And my versions of the other 3 die actions (Exchange for two badge resources; Take camera OR take picture; and activate the Black Bear) I feel are all really good complements to the actions available in PARKS, Nightfall, and Wildlife.
+
+I encourage you to get TRAILS all the same, and to try my mini-expansions (and the base game itself, which is a nice experience and a good sort of lighter version of PARKS). Thanks for reading, and I hope this helps!
+Hey everybody,
+
+I just wanted to let you know, that bgg User @heussen created a beautiful look for my Automa with the original art.
+I already uploaded the english rules and cards (language independent):
+
+https://boardgamegeek.com/filepage/200824/annas-parks-automa...
+
+Of course he asked Keymaster Games for permission
+
+The german file was declined, I have to put it in another file section, I think it will be online in 1 or 2 days. Till then the german users can download the german rules here:
+
+https://www.unknowns.de/wbb4/forum/index.php?thread/16074-so...ür-parks/&postID=641324#post641324
+This is one of my new favourite board games because of its simplicity and theme. My only criticism is, that it can be a little bit too short. So to change that you can add an extra round to the game to extend the play time.
+
+In the first round DON'T add any advance tiles to the trail. That's pretty much it. I think with the Wildlife expansion, which I don't have, you could theoretically add even more rounds if you wish to.
+You could also add all the tiles for all the rounds. We've done that and it's fun.
+You could also add all the tiles for all the rounds. We've done that and it's fun.
+But you still play 4 rounds or just 1?
+If you have wildlife then you have 4 more campsites, so, combining the OP's "don't add one on the first round" and the extra four, you could have 9 rounds... is there enough stuff for that?
+
+Edit: I misunderstood the earlier reply. It's be fun to try to go too many rounds though.
+Inspired from
+this
+and
+this
+post on geek,
+I made this simple variant for use TRAILS and NIGHTFALL together with PARKS.
+Any suggestions are welcome !
+
+
+PARKS : Campfire (2 to 4 Players)
+(All can fit in PARKS core box)
+
+0. Components to remove
+
+Parks
+- All Year cards (then replace year cards from Nightfall)
+- 24 Park cards (Any cards as you want)
+
+Trails
+- 5 trail site tiles
+- 1 Trailhead
+- 1 Trail End
+- 6 Badge cards (Sunshine x3 / Climber x3)
+- 4 Hikers
+1. Setup
+
+Basic setup is the same as PARKS with the following differences ;
+
+A : Shuffle the Photo deck from TRAILS and place it facedown, with one card face up on the discard pile
+Use as a photo action instead of the photo token from PARKS.
+Each time you take a photo, you may draw 2 Photo cards from the deck,
+then keep one and discard the other card face up on the discard pile
+– OR –
+take the top card of the Photo discard pile.
+Keep the chosen Photo card facedown in front of you until the end of the game.
+
+B : Shuffle the Badge deck from TRAILS and place it facedown, Draw and place 3 Badge cards face up
+Whenever you reach at the Trail End and make a RESERVE A PARK / BUY GEAR / VISIT A PARK, you could earn none, one, two, or all three Badge.
+To earn a Badge, pay resources matching its cost, then place the Badge face up in front of you.
+Badges often have a bonus (one-time) action that you may take after you earn it.
+Empty spots are immediately filled from the deck.
+
+C : Place the black bear from TRAILS on the rightmost Trail site tile.
+Place the Wildlife die from TRAILS within reach of all players
+The black bear's head is facing left.
+
+D : Open all campsite tiles from NIGHTFALL according to the season number
+and place them under the trail site tiles
+Doesn't matter in any order.
+
+E : Place the sun token from TRAILS on top of the rightmost Trail site tile
+
+F : Each player starts with
++ 1 Wildlife token from PARKS
++ 1 Campfire token from PARKS
++ 1 Canteen card from PARKS
++ 1 Canteen token (filled side) from TRAILS
++ 1 Tent token from NIGHTFALL
+
+- At the end of turn, you can have up to 12 Resource tokens from PARKS / 6 Resource tokens from TRAILS
+(Don't count the photo tokens form PARKS as resource)
+
+
+2. Play
+
+Basic play is the same as PARKS with the following differences ;
+
+- Wildlife token counts toward 2 Resource tokens worth.
+It can't be used to fill canteens or buy gear.
+
+- To visit a trail site that is occupied by another Hiker,
+use the Canteen from TRAILS to flip it over to the empty side and visit the tile.
+(this rule is using instead of Campfire token of PARKS.
+Isn't it a little strange that you have to make a fire when you meet someone while hiking? haha)
+If your Canteen is empty, you can't visit the trail site occupied by another Hiker—including your own.
+
+* There are three ways to fill Canteen from TRAILS
+- Arriving at the Trail End tile
+- Spend 3 Water Tokens
+- Spend 1 Acorn, 1 Pebble, and 1 Leaf
+- Whenever someone picks up a Weather pattern token placed on each trail site,
+the Sun token from TRAILS moves 1 space to the left.
+
+- On arrival at the trail site where the Sun is located, obtain an additional resource from TRAILS of your choice.
+
+- The area on the left of Sun is daytime / The area on the right of Sun is at night
+
+- Each time a hiker moves on trail site, roll the Wildlife die from TRAILS.
+And the results are as follows :
+Earn Pebble token from TRAILS (Day : 2 / Night : 1)
+Earn Acorn token from TRAILS (Day : 2 / Night : 1)
+Earn Leaf token from TRAILS (Day : 2 / Night : 1)
+Exchange 1 resource (TRAILS) for 2 of any type of resource (TRAILS)
+Move a Black Bear 1 space to the left
+
+* If you reach a tile with a black bear on it,
+or if the Black Bear reaches a tile with your hiker on it,
+discard immediately 1 Wildlife token (ignore it if you don't have),
+AND
+Roll the Wildlife die to lose also 1 displayed resource (ignore it if you don't have).
+OR
+- If the result of the die roll is a Bear, you lose your next turn.
+- If the result of the die roll is a Photo, you lose 1 earned photo card from TRAILS.
+- If the result of the die roll is a Exchange, you lose 2 resource tokens of your choice.
+Get 1 photo token from PARKS.
+*Photo tokens can be used instead of other tokens in brown cube action as above.
+- Camping
+
+On the trail site at night, instead of taking basic actions,
+You can light a campfire on top of the trail site and set up your tent.
+In this case, you don't roll the Wildlife die.
+
+Once the tent is installed, move your hiker to any of the Campsite tiles from NIGHTFALL you want below
+and take its action.
+
+On the next turn, remove the tent and replace your hiker at the trail site where your tent was.
+Keep the campfire burning and leave it on the trail site.
+
+If you want to reinstall the tent, you must use a Canteen from TRAILS to extinguish the existing campfire.
+If your Canteen from TRAILS is empty, you can't extinguish the campfire -> you can't install a tent.
+
+
+
+3. Game end
+
+Basic scoring is the same as PARKS with the following differences ;
+
+- Combine the points from your earned TRAILS photo cards and TRAILS badge cards.
+
+- The player who saw the most Birds on their earned TRAILS photo cards and TRAILS badge cards
+is awarded the Bird Trophy token from TRAILS, worth 4 Points.
+Alguien puede traducirme o decirme en resumido que reglas son las del variante en solitario de RANGE RON POR FAVOR?
+Está justo debajo el primero en archivos.
+Depende de esto comprarme el juego o no.
+Muchas gracias a todos
+Hello!
+
+I have submitted for approval a solo automa to allow you to go up against an opponent instead of beat your high score. Go
+here
+to check out the file!
+
+
+It is a variant of the solo rules that came in the box retaining the core mechanics of flipping over a gear card to move the AI hikers.
+Links to the solo automas I have created:
+Dice Hospital
+- Officially Published
+Sagrada
+Splendor
+Parks
+Sunset Over Water
+Techno Bowl
+This looks like worth a try, as the included solo module wasn’t great for me.
+This looks like a really interesting solo variant - i'll definitely give this a go. Thanks for posting!
+I am working on the rules for a fan-variant “Bucket List” Campaign Game for Parks (the first player to visit all the parks included in the game), and am asking for rule reviewers to read my prototype rules to provide comments for initial development. Of course, few of us (including myself) have had the opportunity to play the game yet, but for rule reviewers, I am looking for: 1) only current Backers of the game, and 2) experienced gamers who have an appreciation of how a set of rules will work, even before playing the game. My set of reviewers will be restricted to the first ten volunteers. To volunteer, send me a private message (click on my user name) and express your interest and any previous experience you've had play testing games. Include your email address, and I will contact you with the prototype rules. Please do not post your email address in public forums, as spammers might use them for their nefarious purposes! (This is why I’d like you to private message me.) I take security as seriously as I can.
+
+Once the Kickstarter Parks games are distributed to Backers (later this fall or winter), we will then start a full play test of the Campaign game to see how it truly works. At that time, I can open the play test to an additional ten testers. After the play test is concluded, I will post the rules here on the Parks game page in the Files section for free distribution.
+
+Please note: this is NOT an official variation, and Keymaster Games takes no responsibility for the content of this fan variation. There will be no compensation for participation other than listing your name as a participant and the satisfaction of helping this Campaign Game be as good as possible. Years of hiking the National Parks awaits...
+Just to be clear: Your variant is intended for Multiplayer only? Or does it work for Solo also?
+Bram,
+Currently multi-player (2-5), although a smart play tester may find a way of adding solo to the experience. (I've thought of a few ways to do it, but not sure how it would work out...)
+This is why I am opening rule development to additional testers.
+Bram, we've just developed the first draft for a solo campaign game. It is a full competition against the Rival (the system) to see who visits all Parks first using a series of tables. It's head-to-head against the AI.
+
+If you are interested in helping with the development, join our group.
+
+FYI: There is still plenty of room in the development group if anyone else is interested...send me a message with your email address to join!
+How has this progressed?
+Mmm, yeah, Robert... thanks for asking.
+It kind of hit the back burner for a couple reasons.
+Initial PT comments were okay, but some suggestions were made. I think there were a couple rough edges that could use more development.
+The addition of the expansion Parks (which is great!) also threw a wrench into the project seeing that more parks are available. (How does that affect the "bucket list"? Should they be ignored? I still need to ponder that )
+On top of that (and the main reason) I've been heavily involved with 4 professional game developments for other designers for the past 6 months and may not see air for another year or two . As such, they deserve my full attention which temporarily held back this project.
+So is it dead? ... well no, but wildfires spread through Yellowstone and has restricted park visitation. Hopefully, the fertile soils will make it better.
+I had recently made a small fan expansion for PARKS for personal use (I call it a 'dad expansion' for me and my son).
+Introduces the Ranger Rondel to a regular multi-player game.
+
+Have not prepared formal rules, however roughly:
+- Put the Ranger starting at the last trail site, and each time the Starting player has their turn, the Ranger moves one space to the left (toward the Trail Start).
+- If a Hiker lands on the same spot as the Ranger, they may do either regular action (that on the Trail Site, or the Camp Site in Nightfall), PLUS (for Free) take the action on a custom-made rondel wheel.
+- On the rondel wheel, the other Ranger meeple stands, and when a Hiker does the action, he moves clockwise to the next action - which is what the next Hiker meeting him on the trail would take.
+- If the Hiker wants the Ranger to move an additional space (or more) on the rondel, they can pay 1 Sun + 1 Water token for each clockwise space they want him to move additionally. Then they take that action.
+
+Actions on the rondel should be fairly clear, but starting from 01:00 clockwise,
+1. Take camera and 2 pictures
+2. Move current hiker forward a spot and take corresponding action (after completing action on current site)
+3. Take 2 wild tokens
+4. Either, (a) draw 2 Year cards and keep 1, (b) draw 2 Parks cards from top of deck and keep 1, (c) draw 2 Gear cards from top of deck and keep 1
+5. Collect 1 Forest and 1 Mountain token
+6. Either, (a) draw 1 Canteen, (b) collect all water off filled Canteens to add to collection (and re-use if desired), (c) fill all empty canteens with water from bank supply
+7. Collect any 2 resource tokens
+8. Move current hiker BACKWARD one spot and take corresponding action
+9. Visit a park for 3 less resources
+10. Collect either 2 Forest or 2 Mountain tokens
+11. Take any action corresponding to any current position of the Tents
+12. Redo current site on trail
+
+(See below image on the current rondel)
+And yes, the Ranger Rondel is purposely filled with quite powerful actions. We like an action-fest. However if deemed too powerful, consider making it default to have to pay the Sun + Water even to execute ANY action of the Ranger on the rondel, not just if you want to advance it further around the rondel wheel.
+In terms of the actions, was intent on trying to build on the existing actions/capabilities but making each (other than the single Tent action) different than any other action found on Sites / Parks / Gear / etc.
+The original motivation to find a way to expand was the strong wish that our discounts of specific resources could apply to those darned Nightfall parks that grant immediate action (lightning bolt) , but come with the brown 2 or 3 token on it for any general resource - but muted the power of our discounts. From there, the 11 other spots were then derived through a huge amount of play on base game + Nightfall and taking notes every time we said "I wish there was a site for .. ".
+I love this kind of creativity. Have you continued playing it, and if so, would you make any modifications at this point?
+With a little Help of a nice bgg user I found the right forum to post my solo Automa
+
+Here the original post:
+
+As I found the solo rules a little bit boring I developed an Automa for the solo play. 
+
+It has 28 Cards which give the Automa several actions - moving, gain tokens, visit parks, take pictures...
+
+You will find it in the file section "Annas Automa"
+
+https://boardgamegeek.com/filepage/200824/annas-parks-automa...
+
+It's like playing against a real opponent and pretty challenging. 
+
+For now, the rules are uploaded in german. I started a translation to english but it's pretty hard for me and will take some time.
+
+If you use an online translator and have questions, message me or use this thread and I will explain the rules 
+
+Greetings
+
+Anna
+UPDATE:
+
+English Version incoming. Check the file section in about 24 hours
+
+You can use the link shown above
+Thank you for doing this Anna, I’m very interested. I’m waiting for Parks to become available again the UK, but will definitely be giving this a try!
+Way faster than expected: English file is approved and online
+
+Btw, I just managed to beat my Automa the first time ever on hard mode (Kilimanjaro). Game ended 33:32 so it was a tough victory
+Thanks! my family hasn't been interested in even trying to play this game. the solo has been a little boring, but the beauty of the cards has kept bringing me back. I look forward to playing with your solo version and having it bring more fun back into the game! thanks!
+Thanks! my family hasn't been interested in even trying to play this game. the solo has been a little boring, but the beauty of the cards has kept bringing me back. I look forward to playing with your solo version and having it bring more fun back into the game! thanks!
+Thank you, I hope you enjoy it!
+How can the family not even want to try this game? It's soooo beautiful
+Great Automata! Played once and lost . This week i will print the cards on something like this: https://www.spielematerial.de/de/spielmaterial/blankomateria....
+I think the German description hat to be updated. I had to check the English description to clarify some topics.
+Does this variant work with the nightfall expansion?
+Does this variant work with the nightfall expansion?
+Unfortunately not. But a little time ago another bgg user contacted me and wants to make the Automa and rules "shiny". When the Automa has got his new look I'll of course play it again and maybe get some new ideas. I own the Expansion as well and only played it twice in multiplayer games right now. But I really like it a lot and I'm interested in making it playable solo as well
+Thanks, looking forward to it
+This is a simple to implement solo variant with a win/loss condition vs just scoring.
+
+Setup Changes: Include the LOOKOUT trail tile in the first season with the standard tiles. That is the only rules change.
+Randomly add the other advanced tiles one at at time each subsequent season just like the rules suggest.
+
+Win: If you can achieve the 3 point level of the personal goal year card you chose at the beginning you win.
+
+Lose: If you do not achieve the 3 point level of the personal goal year card you chose at the beginning you lose.
+
+Points do not matter unless you want to know how well you won or lost.
+
+EASY MODE: Look at the top PARKS card after setting up the first three PARKS before choosing your YEAR card.
+HARD MODE: Don't start with the lookout in the first season and let it show randomly with the others as in the regular rules.
+Recently came back to this game and tried this variant. Really added to the solo experience for me, and added a good level of tension that the basic solo game, although good fun and nice to play, was lacking. It also made the park card draws, solo events, canteens and gear more meaningful. Simple but effective variant
+I love this variant! I much prefer solo modes that have a win/lose system, rather than just high score.
+
+I get a bit bored of trying to beat my high score and I feel like it's really easy to maximize your strategy so that you max out your high score every time.
+Hi All,
+
+Just a thought as I was playing the game solo mode again: Has anyone ever tried to compete against the Rangers instead of just comparing the personnal score on the chart?
+
+So here is what I do: I basically add up all the "sun scores" on the gear cards the Rangers use over a game.
+
+It usually ends up to be a good challenge to beat the rangers. It also means the solo player has to figure out ways of having the rangers move less, or even buy expensive gear to pull out Ranger VPs.
+
+Also, when one of the rangers gets on the 3rd slot of the Trailend, it makes him shuffle the 3 suns gear cards... which gives the player some breathing space to keep up against the Rangers.
+
+So far, I'd say I've won 40% of the time. So it's not impossible, but quite a good challenge IMO. And makes it more fun!
+There's a couple of custom solo modes in the Variants and Files section "Ranger Ron (can use the Nightfall Expansion)" and "Anna's Automa". Both require printing out special cards that give the AI tokens and cards (or write then on a index cards to try them out first). Anna's scoring uses the Gear card "sun scores" and others:
+
+• Count the Victory points on their visited parks.
+• Add Victory points for the sunshine icons on their Gear cards according to the chosen difficulty level.
+• Add 1 Victory point for each photo token.
+• Discover the 3 Year cards you gave to the Automa during the setup. Check if the Automa reached any of the Year-goals with its collected Photos and visited Parks. If so, add the Victory points shown on the Year cards to the nal scoring. Photos and resource symbols are not counted twice. It is possible, that the Automa reaches nothing or everything
+• The Solo Player’s final scoring will be done according to the Multiplayer Mode Scoring in the rulebook pg. 8 but the First Hiker Marker is not scored
+Thanks for the tips! I'll have a look into those custom solo modes.
+
+But to be honest, I like the simplicity of only adding up the sun scores: no additionnal cards or think-through calculus required and you still get quite a challenge!
+I think the official solo mode is well-thought out and challenging. you have to pay attention to the Event cards and might 'tactically' move to a tile with sunshine or water to take it away from the rangers if the Event effect would be more detrimental than a tile you'd normally not skip ahead to. Event cards aren't always bad which I also like so they aten't all detrimental. so I always keep my eye on the event card. I'll have to try the gear sunshine scoring though to mix things up.
+The official solo mode is pretty good, and Ranger Ron is a good solo variant as well. Playing against the rangers sounds interesting, need to give it a go.
+I haven't tried this yet, but I really like the simplicity of it. I'm used to the official solo mode and I like it, and this would be an easy way to make a win/lose condition.
+We have a house rule that a hiker can backtrack as long as he moves at least one space, and BOTH hikers of an opponent are still behind him after backtracking. The backtracking rule allows one to make more frequent use of equipment, and opens up more tactical degrees of freedom. The restriction is required to prevent the game from continuing without end.
+Interesting idea! I like it!
+We have a house rule that a hiker can backtrack as long as he moves at least one space,
+If you didn't move at least one space, technically you wouldn't be backtracking, you would be staying in one place. Ha! (I know, it to prevent people from trying to re-use the space they are on.)
+
+Most of the variants/house rules I have read lately seem to deal with people changing the rules because they think they are unfair. THIS however is an interesting twist and the first house rule I may actually try. its adds a whole other level of trial management. You don't want to keep a lot of empty space in-between hikers
+
+Looks like Parks is back on the table.
+Interesting… Very interesting…. *strokes beard
+Interesting… Very interesting…. *strokes beard
+That's a serious observation, very serious!
+Cryptids (or park ranger) Variant
+Set Up
+
+Follow the normal set up rules but before the game begins choose a Cryptid to play with or Choose randomly. Place the corresponding Cryptid card close to the trail so players can use it as a rules reference. During each start of the season place the cryptid on the last location of the trail and begin the season as normal.
+
+Variant set up
+If you would enjoy more variability you can choose to draw a new Cryptid for each season.
+
+If you don’t want to change the game too much you can also choose to play with the Cryptids only on various seasons of your choosing. (for example only on seasons 3 & 4)
+
+If playing with Cryptids and 3players you may choose to include the trail site that you use in a 4+ player game.
+If playing with Cryptids, 4 players and the nightfall expansion feel free to use the Campsite marked for a 5+ player game
+
+Universal rules for Cryptids
+
+The Cryptid will be placed on the last trail spot and after everyone has taken a normal turn the cryptid will move one space closer to the start of the trail.
+
+If you wish to go on the spot that the Cryptid currently occupies you will have the option to exhaust your campfire token to take a bonus action (the type of cryptid will determine the bonus action) If another hiker is already present you have to exhaust your campfire as normal and then you may still take the bonus action of the cryptid.
+
+If the Cryptid moves to a space that contains any hikers, those hikers become startled and immediately have to move exactly one space closer to the end of the trail.
+
+When A hiker gets startled they do not get to gain the benefit of the cryptid or do not get to gain the benefit of the location you just moved to. If you are scared forward one space and an opponent's hiker is already at that space you do not need to exhaust your campfire token.
+
+Big Foot
+You may spend any two resources to gain a photo and the camera. (As in the nightfall expansion you can pay a wildlife instead of 2 resources)
+
+Jackolope
+You may draw a gear card from the top of the gear deck and gain that gear card at a 1 sun discount or immediately discard and gain the listed sun tokens.
+
+Yeti
+You may draw two canteens and then discard 1 canteen.
+
+Sasquatch
+You may perform the action of this location a second time.
+
+Nessie
+You may move this hiker again and perform the action of the location you just moved to.
+
+Mothman (if playing with nightfall)
+You may utilize any campsite location.
+
+Jersey devil
+You may perform one of the 3 actions available to you when you move your hiker to the end of the trail.
+Reserve a park and take first player marker, visit a park, buy an equipment card
+
+---------------------------------------------------------------------
+Cairns Mini Expansion
+A player now has a Cairn token matching their player color. Once per season after completing a turn with a hiker that is now your lead hiker you may then place a cairn token on the space your lead hiker is currently on. On any future turn where a hiker is moved to a location that has a cairn matching their own player color they may forgo the penalty of spending your camp fire token if another hiker is.
+First and foremost I just want to say I absolutely love parks…. I tend to lean towards heavier games but I am a sucker for theme and beautiful art which is what enticed me to give PARKS a try and now it is one of my all time favorite games.
+
+I am a huge fan of the nightfall expansion and love that it offers variation on the core mechanisms of the game but stays true to the beautiful simplicity of the original.
+
+I one day would love to design a game but I ultimately do not feel that I am cut from the right cloth. I can never follow through with a game design, I am great at coming up with core mechanisms and an interesting theme but am terrible at stringing it all together and following through with balancing and playtesting. For that reason I tend to play around with mini expansions for games that are already published. I am not great at it but I enjoy it as a fun thought experiment.
+
+This may sound silly but some of my favorite expansions are the 3 imhotep promos/mini expansions. Those three expansions amazed me on how such a small little twist can add such a fun dichotomy to a game.
+
+Like Imhotep Parks is such a simple game that offers so many great decisions and a lot of strategic depth, and since Parks is one of my favorite games I thought it would be a natural choice to try and develop a small, simple, silly fan made promo or mini expansion. (Not that it needs an expansion)
+
+And thus Bigfoot was born.
+And it wasnt my intention but a couple other Cryptids followed.
+Click here for the rules of the Fan made Cryptid expansion.
+And now working on fan made 14er expansion which adds a new turn order track that provide you with new bonus’s and end game points
+and a Landmarks/State parks expansion which allows you to play a mini territory control game having majority can give you bonus’s at the end of each season.
+
+Bigfoot is simple it tightens up the board by essentially blocking a trail site however you can still choose to go on his space by exhausting your campfire token and if you do he gives you the opportunity to pay resources to take the camera and another picture.
+It is nothing revolutionary and it is not necessary to the game but for some it may provide a fun little experience.
+I found it especially great for 2-3 players. Only having one chance to get the camera works really well and is amazing but others may prefer more chances And if they do they can simply add big foot to their game. It is amazing how this additional option can really change the game.
+
+Bigfoot inspired me to then make more Cryptids that would give players the option to customize their play experience.
+
+Want to try a game with more equipment cards? Try the jackalope!
+Want more canteens? Then throw in the Yeti!
+Really wish you could have a power turn or use a location twice? try the sasquatch!
+Sounds a bit hectic, convoluted or crazy??? Maybe!!!
+
+But you only play with one cryptid at a time and all of the cryptids have a simple universal rule set, they just give you a slightly different benefit so it is super easy to teach, learn and master.
+
+The Theme of cryptids running around in the parks is fun, cute and could make for some good meeples. But if It doesnt meet your fancy you can as an alternative simply use one hiker in any player color that is not being used and call it a park ranger. The park ranger would then have a different personality card that would copy the various cryptid abilities.
+
+Despite wanting to make every cryptid act in a super unique way for simplicity sake and to follow suite with the streamlined gameplay of parks I wanted the cryptids to have shared universal rules. For balancing purposes I looked at what the game already offers to ensure the Cryptids would not ruin the wonderful flow and balance of the core game. Will exhausting your flame and hunting for the cryptid be worth the extra benefit?????
+
+Still need to playtest a couple of things but would love to hear other peoples thoughts after they read the rules.
+
+Cryptid/Park Ranger Playtest questions
+Note the rules used to be that you were forced to exhaust a fire token if you wanted to go on the location of the Cryptid.
+Should it go back to the original rules?
+Or Should the Cryptids special be optional and you only have to extinguish your fire if you use the Cryptid ability?
+I do not want the spot with the cryptid to always be desirable and that is why I feel like a cost should be associated with it
+
+Does it scale?
+Should they not scare you forward?
+Does it mess with the flow of the game in a negative way?
+Are they balanced?
+Are they fun?
+Stefan, this is great stuff! I will now be on the lookout for cryptid meeples....
+Cairns Mini Expansion
+A player now has a Cairn token matching their player color. Once per season after moving a hiker and taking a normal action the hiker may then place a cairn token on the space your hiker is currently on. The Cairn allows your previous hiker to visit that location without spending your fire token.
+I think this would make an excellent mini-expansion. So by not spending your campfire token, I assume it means regardless of whatever hikers are on the space with your cairn, correct? (Not just your hiker who placed the cairn.)
+Thanks Adam!
+
+and you are correct, the cairn guarantees a safe space for your other hiker regardless of who is already on the space.
+Pretty cool. Big Foot aka Sasquatch : ) Could use the shark fin from Escape from Atlantis for a Landshark cryptid (the last photo above is the sea monster from that game). Land shark is a SNL joke. Jaws also has a shark token.. New Location tiles such as Stonehenge could be interesting.
+Land shark is a SNL joke.
+Good idea. And there's a token for that!
+(I actually have one of these, even though I don't know the joke and I don't own
+the game
+. I had it briefly, only to scrap it for parts.)
+When you use your campfire token, place it fire-side up below your trail space. Then, when you leave the space, flip the campfire token to exhaust it.
+When you stop on a trail space containing another player's exhausted campfire, gain 1 wildlife token--you find some curious animals rummaging the remains for snacks!
+When you use your campfire token, place it fire-side up below your trail space. Then, when you leave the space, flip the campfire token to exhaust it.
+When you stop on a trail space containing another player's exhausted campfire, gain 1 wildlife token--you find some curious animals rummaging the remains for snacks!
+Neat! What happens if you refresh your campfire...do you take it back to your supply?
+Neat! What happens if you refresh your campfire...do you take it back to your supply?
+This is what I do, though I also play with a rule that campfires refresh only at end of season. I see your point how there may be a thematic disconnect with the standard rules causing your campfire to teleport away mid-season.
+Neat! What happens if you refresh your campfire...do you take it back to your supply?
+This is what I do, though I also play with a rule that campfires refresh only at end of season. I see your point how there may be a thematic disconnect with the standard rules causing your campfire to teleport away mid-season.
+Well, yes and no. The campfire ashes only remain fresh (and thus interesting to the wildlife) for a limited time, so having them disappear part way through a season is fine. The "ashes" stay until the end of the season or until the player refreshes their fire, whichever comes first. That's the point at which they are too old and picked over to have any further attraction to the animals.
+I tried the variant today and it was fun. We were all jockeying positions in an attempt to minimize opportunities for opponents to take advantage of our exhausted campfires.
+This is a small variant I enjoy, here are the rules:
+
+
+1. At the beginning of each round the players secretly write the Name of one Park of their choice on a paper.
+
+2. If a player manages to visit one of the parks he has on a paper he may reveal that paper and the Park comes with an additonal photo for free and the option to shoot a second for the cost of two resources (one with camara)
+
+3. If a player manages to reserve a Park he has on a paper he may reveal that paper to get a gear/buy action in Addition.
+This is a small variant I enjoy, here are the rules:
+
+
+1. At the beginning of each round the players secretly write the Name of one Park of their choice on a paper.
+
+2. If a player manages to visit one of the parks he has on a paper he may reveal that paper and the Park comes with an additonal photo for free and the option to shoot a second for the cost of two resources (one with camara)
+I like this idea. I imagine it adds a bit more tension as now folks have additional motive to get at least one of their hikers to the trail end or another space that allows them to visit a park, as quickly as possible before someone else claims their named park.
+This is a small variant I enjoy, here are the rules:
+
+
+1. At the beginning of each round the players secretly write the Name of one Park of their choice on a paper.
+
+2. If a player manages to visit one of the parks he has on a paper he may reveal that paper and the Park comes with an additonal photo for free and the option to shoot a second for the cost of two resources (one with camara)
+I like this idea. I imagine it adds a bit more tension as now folks have additional motive to get at least one of their hikers to the trail end or another space that allows them to visit a park, as quickly as possible before someone else claims their named park.
+Thanks for your appreciation! It also adds a nice little mind game between the players. Cheap parks get the biggest boost from that rule, so theoretically players have to go for them but choosing a more expensive Park on the other hand reduces the chance that another player catches it.
+The second intentional effect is that the year cards get weakend from that rules. I dont like the Effekt of the year cards much. The "strategy" they add to the game is strategy for dummies and mainly have the Effekt to tie up the players in an artificial way. These rules add the posdiblity to choose and go for a park simply because you like the park without reducing the chance to win the game, and that fits the atmosphäre of the game much more. If you want to increase that you can additionally to that rules, play with open year cards, which weakens the year cards even more and also adds something to that mind game I described (thats how i prefer to play), ore ultimatively play without the year cards.
+My wife and I think that reserving a park with your very last hiker on the very last turn is just mean for the sake of being mean. You can't visit that park, so you're only going to look at the resources of the other players and just swipe it away for absolutely no benefit for yourself. This is very not cool, so we've said you can go to that final spot to take the first player token for 1 point, (if no one else has already), but you can't reserve a park.
+One person's "mean" is another's "well played". To me, that's just good tactics. It's one of the balances of this game. You can try to stop at lots of places along the trail to get all the resources, or you can try to get to the end of the trail first to have first shot at the actions at the end (including reserving a park).
+And what if the parks available aren't what anyone wants? How do you churn the available parks? What if the next one to come out is better? There's tons of parks and the resources could be spent again on many other options.
+
+Also you only get 1 point for having the first player token at the end of the game, not each time you take it.
+Also you only get 1 point for having the first player token at the end of the game, not each time you take it.
+No one said anything about "taking it multiple times". Very last season, very last Hiker, very last move.
+There's tons of parks and the resources could be spent again on many other options.
+There are not "tons of parks", there are only 3 available at any one time. That's not "a lot".
+One person's "mean" is another's "well played". To me, that's just good tactics.
+It is indeed "good tactics", last turn or not, if it prevents an opponent from benefiting. When playing Wingspan and you need a seed, do you take the seed die if a combo seed/worm die is available? Same thing.
+...you're only going to look at the resources of the other players and just swipe it away for absolutely no benefit for yourself.
+The benefit, as I pointed out above, is that your opponent cannot score that park.
+This is very not cool, so we've said you can go to that final spot to take the first player token for 1 point, (if no one else has already), but you can't reserve a park.
+House rule whatever you want, but in competitive board games, this is an accepted practice amongst every player I've ever played with and had this situation come up.
+So basically, let me win? I've only played the game once, so I am trying to follow the logic here... its the last season. Player 1, lands on the "end trail" and say grabs equipment, player 2 goes onto a space. Player 1 then realizes that player 2 has enough tokens to reserve/purchase a park, so player 1 goes to the end trail and reserves the card instead. Player 2 still has both players on the board.
+I would think player 2 AFTER player 1 placed their first hiker on the end title, should have then placed their first hiker on the reserve spot. (therefore getting the card and preventing player 1 from getting it.) unless they didn't have all the tokens they needed yet. hence the delay.
+
+Did player 2 need more tokens from the board? and that is why you could not have taken the reserve spot with your first hiker? The only way I see this playing out is that you had both hikers still on the trail, and then would use one to reserve and the other to purchase.
+
+If player one landed on a spot with a water token and filled a canteen that allowed him to reserve a card, would that not be allowed as well? Since the other player wanted it?
+I believe anyone is free to houserule any board game they own as they see fit. Go crazy with the modifications if it makes you happier to play your game your way with people who are as happy to play that way.
+
+Having said that, denying your opponents any points using any legal move a perfectly legitimate game strategy, esp if winning is the aim of the game. If winning isn't the aim, then it shouldn't matter anyhow.
+
+Points denied = points gained / saved. Cool or not cool has nothing to do with it.
+The OP starts, "My wife and I .......". Any 'coupled' person should understand the sentiment expressed.
+The OP starts, "My wife and I .......". Any 'coupled' person should understand the sentiment expressed.
+In other words "I'm not allowed to do this. Anymore." (smile...)
+Sorry, but I couldn’t disagree more. In a 2P game, if P1 stops P2 from getting a point, it’s the same thing as P1 getting a point.
+
+Consider how much tension is created in the last season because of this rule. On the very first turn, P1 thinks: do I jump EVERYTHING on the trail with my first hiker to stop P2 from getting that awesome park? If I do, I’ll at least get one point. Or, do I take it slow, and hope to leapfrog at the last second? If I take it slow, maybe P2 will jump everything with their first hiker to reserve the park! If they do, then I am almost guaranteed to be able to slowly visit every spot on the trail, since I would still have two hikers out. So, P1 has a decision to make on the very first turn.
+
+Meanwhile, P2 has the same issue on their turn. Do I use my first hiker to skip EVERYTHING so I can reserve that park? Or go slow and get stuff? If I skip ahead, I’ll get at least one guaranteed point, and then I can go slow with the second hiker. Or, do I go slow with my first hiker, and get resources at the risk that P1 will reserve it out from under me? If P1 reserves it out from under me, a new park will appear, and maybe I’ll be able to buy that with the resources I get from going slow. In that case, P1 sacrificed their own goals to stop me, but it didn’t work. Or maybe the new park will be useless. In that case, P1 did the right thing, and is rewarded one point for taking the risk, but I can now go slow for the entire last season, because I have both hikers out.
+
+P1 has to decide on every turn: do I skip all the stuff in front of me to screw over P2? While P2 has to decide: do I skip all the stuff in front of me to guarantee that I get to buy the awesome park?
+
+Because you would have to skip so much on the very first turn, neither are likely to do it. As the season goes on, both players are more likely to skip stuff to get that awesome park. Every turn, the tension ratchets up... that’s great game design.
+I feel like a lot of people are missing my point entirely. I'm talking about Player 1 NOT needing the park at the end but taking it just to deny it from Player 2. If there are 3 parks out at the end of the round, and player 1 can't get it and fulfill it, but they can see the resources that Player 2 has and then specifically takes the only park in the display that Player 2 can take, that's mean. I'm not talking about each player racing to get a certain park because it benefits them. I'm talking taking the park SPECIFICALLY to hurt the other player with ZERO benefit to themselves.
+I'm talking taking the park SPECIFICALLY to hurt the other player with ZERO benefit to themselves.
+If this is a 2-player game, there is no difference between gaining, say, 4 points for myself versus denying 4 points from my opponent. Denying points from my opponent is very definitely a benefit to me; it is NOT zero-benefit. When I'm trying to decide on a move, I'm going to look at what gets me the best net gain over my opponent. If I have a choice that gains me 3 points, and a choice that denies my opponent 4 points (and they don't have another option available if I deny those points), then you bet I'm denying my opponent those points. There's nothing mean about it.
+
+In a game with more than 2 players, there will definitely be more considerations about who seems to be ahead and what would benefit me most, but denying points from other players is still a possible option.
+The OP starts, "My wife and I .......". Any 'coupled' person should understand the sentiment expressed.
+When my wife and I played games (including PARKS), we very definitely still took aggressive moves against each other. We didn't view it as "mean," it's just playing the game.
+
+Edit:
+In addition, the threat of the park I want possibly being taken before I get there is going to change how I play the game. If I know that my opponent won't take that from me because that would be mean, then I'm going to take my time along the trail doing other things to earn more points along the way before I go to the end to visit that park. But if I know my opponent might reserve it out from under me, I may skip other things to get there first. So, reserving a park to deny your opponent may have even more impact than just the points on the park card.
+
+That said, when the two of you are playing together, use whatever agreements makes you enjoy the game the most. Just don't expect other people you may play with to have the same thoughts on whether that's mean.
+Can you get the first player token (and 1 point) by being the first one to reserve a park on the trail (not at the end). Rules say that the first player to reserve a park gets the token.
+No. Just the end spot.
+I feel like a lot of people are missing my point entirely. I'm talking about Player 1 NOT needing the park at the end but taking it just to deny it from Player 2. If there are 3 parks out at the end of the round, and player 1 can't get it and fulfill it, but they can see the resources that Player 2 has and then specifically takes the only park in the display that Player 2 can take, that's mean. I'm not talking about each player racing to get a certain park because it benefits them. I'm talking taking the park SPECIFICALLY to hurt the other player with ZERO benefit to themselves.
+The point of the game is to have more point than your opponent! If by denying them a Park means that I will have more points then them at the end of the game, then I’ll reserve that park every time I have the chance, it’s mean, but that’s the point of a competitive game, if you don’t like doing mean things to your opponent then you should probably play cooperative games.
+
+I consistently do things like this to my wife it makes the games more entertaining!
+I absolutely get what you mean. I personally really struggle with this game as the incentive to undercut other players is the main form of interaction in this game that is themed around going on nice strolls through national parks.
+
+I'm not against the idea of resource deprivation as an approach to games, I'm not unfamiliar with taking up space in Scythe to cut other plays out, or really any game of Root works this way too, but those are war themed games and the theme of Parks feels like it is saying "we're going to go on a walk together, but I'm going to win by making sure you don't have any water to drink on our hike." I don't think the game is poorly designed by any means, it's a tight game, I just think the expectations set by the design are worlds apart from the actual mechanics of the game. You expect a group hug experience, but instead you're better off raiding other's camps.
+
+I think the simple issue is just that theme is wrong, the game feels more like post apocalyptic survival competition and each park is a safe house you find to keep yourself alive as you travel the country competing against other survivors who would leave you to die. Or competing wildlife fighting for control over locations against other wildlife. You needed that Mountain? I took it first go somewhere else. You're building up to that 5 point location, I'm going to take set it aside and probably leave you something of less value or something that isn't in the spectrum of resources you've made. If I get a few points ahead early, then I can just spend the rest of the game undercutting you. Again, this would be all fine and good if the theme was about survival, but it's not that.
+Well said. Thank you.
+Parks “More Parks” Variant
+
+Idea: Give the players more visible Parks to consider visiting. This allows for a bit more longer-term strategy.
+
+Set-up: Deal 3 Park cards into the Park Area as usual. Then deal 3 more Parks above them. And then deal 3 more Parks above that. So now you have a 3x3 grid of Park cards.
+
+Visiting Parks: When you visit a Park, you may visit the normal 3 Parks as usual. Or, you can visit a Park from the second or third row.
+
+Visiting a Park from the second row costs you the normal price plus one extra resource of a type that’s listed on that Park. (So if you Visit a Park that costs 2 trees and 1 mountain, you must pay an extra tree or mountain).
+
+Visiting a Park in the third row costs you two extra resources of a type(s) listed on the Park.
+
+Parks in all rows are replaced by new Parks when needed. They are never shifted down to lower rows.
+
+Reserving Parks: If you reserve a Park from the second row, you must pay the cost of one resource of a type that’s listed on that Park. If the Park is from the third row, you must pay two resources of a type(s) that are listed.
+
+When it comes time to Visit such a previously Reserved park, you don’t have to pay anything more.
+
+Considerations: When doing Seasonal Event that add resources to Parks, add those resources to only the 3 original first-row Parks. You may use Gear to cover your extra costs when Visiting 2nd and 3rd row Parks. But Gear can't reduce your costs when Reserving such Parks.
+I liked your consideration idea of adding resources based on the season card to the 3 main parks cards.
+
+Before I was thinking about house ruling how the Parks move from right to left like Century Spice Road, and put 3 resources based on the season at end of row for the third park card. Once any of the 3 park cards are drafted, move the parks down the row. Can only choose 1 resource per park drafted in that 3rd slot. Replenish resources each season.
+
+This creates a little more competition and sense of urgency when visiting the parks. It can also foster a little more hate drafting and usage for reserving a park in that resource spot if someone is about ready to visit it and take a free resource of their choice.
+One thing I was trying to avoid with the variant was fiddling around with moving Park cards around during the game. This is just personal preference of mine, and I could see how a similar variant could work fine with cards that continually move down as they are taken/replaced, or move down at then end of a season (both of which is suggested by people posting above).
+
+As for having a crappy card stuck in the 3rd row, I'm not too worried about it. In the games I've played, I've seen people forced to give up resources because the had too many (because the Park they wanted got snipped), and at least this gives them a chance to use those resources for *something* perhaps.
+
+Anyway, I'm glad to inspire anyone to make the variant they think they'd like
+Definitely going to try this variant. I may just stick to two rows due to table space but I love it.
+This is an idea worth trying. It's similar to Hit Z Road's solo game. Three rows two columns, but top face down, second one card faceup one face down, bottom both cards faceup so you pay resources for the bottom row. A fan variation is more like the OP with all cards faceup and spending more resources. So having been established it can work in PARKS to add some interest.
+
+What it needs is a mechanism of I want to go to that park but my friends don't want to because they've been there or it's too far away or vice versa. Let's get some reality drama into the game lol
+With the current rules of getting either one or the other reward from the year cards, they are barely worth the effort of achieving. It is almost guaranteed to be more points to focus on additional points from visiting Parks. This is especially the case for the second reward.
+
+However, in our past couple of plays, we tried a variant that if you hit the larger goal on the year card, you earned both rewards. This makes it almost the same points as a larger park, and is much more worth the effort.
+I believe the designer intended the Year cards to be a suggestion or guide for new players. I thought about making them additive as a house rule but I seem to have been the only one in my 6 plays so far to have filled out both (I think I did it 2 times) which just would have my wins larger.
+
+If it works for you though, I think it’s a great idea. (Btw it makes it 5VP which is as much as the largest park card).
+Came to the Variant Forum to see if someone had already suggested this and would have opened my own thread if not. It's just kind of a disappointment that the thing that YOUR card tells you to do sometimes actually works against you if you try to fulfill it.
+
+Example:
+
+I had the choice between getting a 2-point park to gain the full bonus (3 instead of 2 points) OR get a 4 point park and forego the full bonus. Obviously I should take the 4 points park because it's 2 points more than the other and the one extra bonus point doesn't make up the two point difference. With the house rule that you score 2+3=5 total instead of just 3, getting that small points park and completing my obective would have been worthwhile. Maybe that seems like a special case but that's what actually happened in my last game and aesthetically it felt less satisfying as a result. My year card set me up to visit a bunch of small parks but in the end just visiting bigger parks was the anticlimactic but correct choice.
+
+Properly rewarding the effort of having achieved the complete goal provides a certain satisfaction that you "did the thing" and completed the set and you get a nice reward. Nice feelings all around instead of "eh, doesn't matter. I'll get the biggest park I can afford."
+
+I don't think it really upsets the balance of the game too much. But it DOES push players to actually try and complete their year card, which can sometimes be really close and I think it can be really exciting to succeed or fail in the last moments. So those people saying "I never finished my objectives"... well now you actually have a reason to try and do so.
+Since this discussion, the Nightfalll expansion has a set of cards that replace the Year cards with scaling bonuses. With one or two cards removed, I believe you can swap them with the Year cards straight up even without playing the Nightfall variant.
+A: Race Variant
+*Do not give players hidden base game Year cards.
+*Instead deal # of players+1 Year cards and put them out face-up.
+*Whoever is the first to meet the easier conditions claims the Year card, worth 2 VP at game end.
+
+B: Capture Variant
+*Same as the Race variant, but…
+*If a player meets the harder condition on a Year card, they claim it from the current holder, if they aren’t already the holder. It is now worth 3 VP.
+*Either way, once the harder condition is met by anyone, it cannot change hands again.
+
+C: Nightfall
+*If playing with Nightfall, you still use hidden Nightfall Year cards as normal with either variant, but all Nightfall rules affecting Year cards only apply to Nightfall Year cards.
+
+Just adding another mechanic from Splendor to a game that already blatantly draws a lot of inspiration from Splendor. In a 3 player game, instead of year cards being 2-3 hidden potential points you can pursue at your leisure, they become 8-12 points you have to race for.
+Those variants sound fun, I’d like to see how they shake out in testing. I do like your concept of public year cards.
+
+Here is another twist on that. Players still get their private year cards, but also put out 3 public, face-up year cards too. Put wild tokens on each card equal to the number of players minus one (Example: in a four-player game, put 3 tokens on each card). If you run out of wild tokens, use a suitable replacement. As soon as a player satisfies any part of one of the public year cards, they get a reward (below).
+
+Reward: take a wild token off the card they scored (if still available) and may use that token immediately, then they may immediately move one of their hikers backward 1 space (with no sharing/campfire restrictions but gaining no tile benefits either). Players are limited to a single reward for each public card. At the end of the game, players score for both their public and private year cards.
+a game that already blatantly draws a lot of inspiration from Splendor
+How does it draw from Splendor? I don’t think they share a singular mechanism
+a game that already blatantly draws a lot of inspiration from Splendor
+How does it draw from Splendor? I don’t think they share a singular mechanism
+Perhaps, the OP, was thinking of Century Spice Road, maybe? Even so, I wouldn't use the word blatantly. IMO, Parks has enough going for it to stand out as a good entry level worker placement game with a strong theme & good aesthetics.
+My friends and I really like this game! It is an easy opener for a game night, and my gf, who doesn't play games, loves it. So all around it is well liked. There are a couple house rules we have added for f2f play. Would love to hear feedback on them and what house rules other people have added. (note. we have not bought the expansions but have heard good things and look forward to getting them for Christmas this year)
+
+1. At the end of each season all of the parks on the board are discarded and new parks are brought out (With so much beautiful artwork in the game we wanted to see more, especially since we play 2 player mostly and don't get to see nearly as many parks as when you play with 4 people)
+2. At the end of each season we discard all of the gear that is remaining and put out new gear (sometimes crappy gear comes out that no one will buy. That is with 2, 3, or 4 players, so we just figured this would be a nice way to make more gear available through the course of the game)
+
+Any thoughts on these? Or suggestions for more?
+Good ideas. Better idea (imo) buy the expansions
+I don't see anything wrong with your tweaks, but I think that either expansion will give your game new variability & deliver the fresh replayability that you crave.
+
+Also, they are low cost (compared to the base game).
+I wouldn’t play with #1. There are too many times where working towards buying a specific park extends through two seasons. Taking that away for a random draw would be unfortunate.
+
+#2 I feel like should have been in the rules. There is too much gear that isn’t useful for a variety of strategies.
+I like both of these rules even with the expansion.
+I'll also add whenever someone draws a gear/canteen/year card, draw 2 and keep 1.
+We added a single extra rule:
+If you are currently in a National Park, cards for that specific park are worth +1 extra point. (When using an expansion and visiting famous parks like Yosemite, there may be more than one card in the deck with that name.)
+
+(Parks is a favorite evening game for family road trips. We got to play it in Lassen and Yosemite in our most recent trip.)
+We added a single extra rule:
+If you are currently in a National Park, cards for that specific park are worth +1 extra point. (When using an expansion and visiting famous parks like Yosemite, there may be more than one card in the deck with that name.)
+
+(Parks is a favorite evening game for family road trips. We got to play it in Lassen and Yosemite in our most recent trip.)
+I love this rule!
+We've always refreshed the parks when playing 2P, but put them off to the side, so that if you were working towards them, they remain available. We like to get more options moving, like we're on a road trip.
+
+The gear refresh was actually added to the rules with the Wildlife expansion - the Bison refreshes 1 or all gear when it moves back to the 1st position.
+I have recently purchased Parks and have tried the Ranger Ron Automa but am still a bit confused by the rules. When you play against Ranger Ron and a Ranger reaches the trail end the card states what action he takes, but does he take another end action when the second Ranger gets there - I suspect not.
+
+Do the rangers block the end spaces for my hikers?. Also on the online board for Ranger Ron it has a space for a season card, then never mentions it in the rules? But does mention Ron obtaining a gear card, then never mentions that when scoring at the end of the game?
+I have recently purchased Parks and have tried the Ranger Ron Automa but am still a bit confused by the rules. When you play against Ranger Ron and a Ranger reaches the trail end the card states what action he takes, but does he take another end action when the second Ranger gets there - I suspect not.
+
+Do the rangers block the end spaces for my hikers?. Also on the online board for Ranger Ron it has a space for a season card, then never mentions it in the rules? But does mention Ron obtaining a gear card, then never mentions that when scoring at the end of the game?
+Did you read this thread about this unofficial solo variant?
+That might be a good place to post your questions of which at least one is answered.
+Moved to variants.
