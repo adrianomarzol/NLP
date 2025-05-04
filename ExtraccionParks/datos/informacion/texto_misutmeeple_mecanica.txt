@@ -1,0 +1,59 @@
+PARKSes un diseño en el que los jugadores representan a excursionistas que visitarán diversos parques nacionales. A lo largo de cuatro rondas, cada jugador gestionará dos peones que se desplazarán sobre un track de casillas, teniendo en cuenta que un excursionistas no podrá detenerse en una casilla ocupada (aunque cada jugador dispone de una oportunidad de romper esta regla en cada ronda) que proporcionan recursos, permiten conseguir cantimploras (que cuando se obtiene agua, se pueden rellenar para activar sus efectos), comprar equipamiento (que proporciona efectos permanentes) o visitar parques (teniendo que pagar los recursos indicados en la carta disponible en el suministro). Cada jugador dispone de un objetivo secreto que bonifica en función de los parques visitados.
+Empecemos por losRecursos. Durante la partida los jugadores podrán obtener fichas de cuatro tipos de recursos: agua, sol, bosque y montaña. Adicionalmente tenemos las ficha de vida salvaje, que actúan como comodín y pueden sustituir a cualquier recurso. Existe un límite de doce recursos que los jugadores no podrán sobrepasar al final de su turno (teniendo que descartar el exceso en caso de que esto ocurra).
+Estos recursos se utilizarán principalmente para visitarParques Nacionales. Estos se representan mediante cartas que muestran en su banda inferior el coste en recursos (bajo esta hilera de recursos aparece una pequeña leyenda informativa sobre el parque). A la derecha aparece el número de puntos de victoria que proporciona el parque una vez visitado.
+Uno de los elementos principales será la hilera deLosetas de Acción. Cada una de estas losetas muestra una acción que, en esencia, será conseguir recursos o utilizarlos para conseguir ciertos elementos.
+Para activar estas losetas de acción cada jugador dispondrá de dosPeones de Excursionistas. En cada turno, el jugador deberá avanzar uno de estos peones a una loseta que no tenga ya otros peones, ya que, salvo una excepción, en cada loseta solo puede haber un peón. La ronda finalizará cuando los peones hayan alcanzado la casilla final del recorrido.
+Esta excepción se representa mediante lasLosetas de Hoguera, que permitirán a los jugadores romper la regla anterior y avanzar uno de sus peones en una casilla ocupada. Cada jugador podrá utilizar esta loseta una vez por ronda (muestra un lado encendido para cuando está disponible y uno apagado para cuando se ha usado en la ronda en curso).
+LasCartas de Cantimplorapermiten a los jugadores intercambiar agua por recursos. Cada cantimplora podrá ser utilizada una vez en cada ronda. Los jugadores ya comienzan la partida con una de estas cantimplora y podrán obtener más durante la partida.
+LasCartas de Equipamientopermiten a los jugadores disfrutar de diversas bonificaciones a cambio de emplear fichas de sol para adquirirlas mediante una acción especifica. El coste está indicado en la esquina superior derecha y el beneficio viene indicado en la banda inferior.
+En cada una de las rondas estará vigente unaCarta de Estación. Esta carta muestra en la esquina inferior derecha el patrón de reposición de fichas de agua y sol que se colocan sobre las losetas de acción. En el centro de la carta aparece una regla adicional que se aplica durante la ronda.
+Al comienzo de la partida los jugadores recibiránCartas de Objetivo. Cada carta muestra un doble criterio de puntuación que se evaluará al final de la partida en función de las cartas de parque que cada jugador haya visitado.
+Durante la partida los jugadores podrán conseguirFichas de Fotografías. Cada una de estas fichas proporciona un punto de victoria al final de la partida. Para conseguirlas los jugadores deberán utilizar recursos, aunque el ultimo jugador en haber hecho una fotografía se hará con laficha de cámara, que aplicará un descuento sobre la siguiente fotografía.
+En el centro de la mesa se dispondrá unTablero Principalen el que se colocarán los distintos tipos de cartas (cantimploras, equipamiento, estación y parques).
+Con esto tenemos suficiente.
+1. Se coloca el tablero de suministro en el centro de la mesa.
+2. Se mezcla el mazo de cartas de parques y se coloca en el espacio correspondiente. Tras esto, se revelan las tres primeras cartas y se colocan en los espacios correspondientes.
+3. Se mezcla el mazo de cartas de equipamiento y se coloca en el espacio correspondiente. Tras esto, se revelan las tres primeras cartas y se colocan en los espacios correspondientes.
+4. Se mezcla el mazo de cartas de cantimploras y se coloca en el espacio superior izquierda.
+5. Se mezcla el mazo de cartas de estación y se colocan en el espacio correspondiente.
+6. Se colocan los dispensadores de recursos a los lados del tablero.
+7. Se forma la hilera de acciones colocando las losetas básicas ordenadas de forma aleatoria (en partidas de menos de 4 jugadores se deja a un lado la loseta básica que indica ese número de jugadores). Se colocan las losetas de inicio y de fin al comienzo y al final de la hilera.
+8. El resto de losetas se mezclan y se forma un mazo.
+9. Cada jugador escoge un color y recibe dos excursionistas (que coloca en la casilla inicial de la hilera), una loseta de hoguera y roba una carta de cantimplora que coloca en su zona de juego.
+10. Se mezcla el mazo de cartas de objetivo y se entregan dos a cada jugador. Escogen una en secreto
+11. Se deja la loseta de fotografía a un lado.
+12. Se escoge de forma aleatoria al jugador inicial y se le entrega la insignia.
+¡Ya podemos comenzar!
+Una partida dePARKSse desarrolla a lo largo de cuatro rondas. Cada ronda se compone de tres fases.
+Fase I: Preparación de la Estación
+Se procede de la siguiente forma:
+- Se revela la siguiente carta de estación del mazo.
+- Se aplica el patrón de fichas de agua y sol sobre la hilera de cartas (se colocan las fichas indicadas a partir de la tercera loseta contando la loseta inicial y se vuelve a repetir en las siguientes).
+Fase II: Acciones
+Comenzando por el jugador inicial y continuando en el sentido de las agujas del reloj, cada jugador disfruta de un turno.
+En cada turno, el jugador deberá avanzar uno de sus dos peones de excursionista y colocarlo en una loseta de acción más a la derecha que no esté ocupada por ningún otro peón. Tras esto, el jugador resuelve la acción del espacio. Si sobre la loseta hay recursos, el jugador los recoge y los coloca en su reserva personal.
+Tras esto, el turno pasa al jugador de la izquierda.
+Como excepción, el jugador puede utilizar su loseta de hoguera para colocar su peón en una loseta ocupada.
+Si un excursionistas llega a la loseta final ya no podrá ser desplazado para ejecutar acciones. El jugador que lleve un primer excursionista a la última casilla y escoja la opción de reservar un parque, obtendrá la ficha de jugador inicial (si nadie escoge esta opción, la ficha de jugador inicial no cambia de mano). Cuando los dos excursionistas de un jugador han llegado al final, ya no disfrutará de turnos en esta ronda. Cuando solo queda un excursionista por llegar a la loseta final, ese jugador deberá desplazar directamente ese peón a la última loseta y ejecutar una acción, con lo que finalizará la ronda.
+Siempre que un jugador obtenga al menos una ficha de agua podrá colocar una de ellas sobre sus cantimploras para obtener el recurso correspondiente. Cada cantimplora podrá utilizarse solo una vez por ronda.
+Las acciones disponibles son:
+- Obtener recursos. Los jugadores reciben de la reserva los recursos indicados.
+- Tomar Foto. El jugador entrega 2 recursos cualesquiera a la reserva y obtiene una ficha de foto. Además se hará con la loseta de cámara. Si un jugador en posesión de la cámara hace una foto, solo le costará 1 recurso. Alternativamente se podrá obtener una cantimplora.
+- Visitar un Parque. El jugador devuelve a la reserva los recursos correspondientes y coloca la carta de parque en su hilera de parques visitados. El parque puede estar en el suministro o reservado por el jugador. Si se ha tomado del suministro, se repone inmediatamente.
+- Reservar un Parque. El jugador toma una de las cartas disponibles y la coloca en horizontal en su zona de juego. Podrá visitarlo posteriormente. Se repone el espacio inmediatamente.
+- Adquirir un Equipamiento. El jugador devuelve a la reserva las fichas de sol y toma la carta escogida. Su efecto aplicará desde este momento.
+Fase III: Final de Estación
+Se procede de la siguiente forma:
+- El jugador en posesión de la cámara podrá tomar una fotografía entregando un recurso a la reserva.
+- Se vacían las cantimploras.
+- Todos los excursionistas retornan a la loseta inicial.
+- Se cogen todas las losetas intermedias del sendero y se añade una nueva loseta del mazo, se barajan y se vuelve a formar la hilera.
+- Se descarta la carta de estación.
+Tras esto, comenzaría una nueva ronda.
+La partida finaliza al término de la cuarta ronda. Los jugadores suman los siguientes puntos:
+- Los puntos de cada carta de parque visitado.
+- 1 Punto por cada ficha de fotografía.
+- Los puntos de la carta de objetivo.
+- 1 Punto por tener la ficha de jugador inicial.
+El jugador con más puntos será el vencedor. En caso de empate, el jugador con más parques visitados será el ganador. Si la igualdad se mantiene, los jugadores comparten la victoria.
+Modo en Solitario. El jugador se enfrenta a un bot gestionado por un mazo de cartas especiales. En función de estas cartas se aplican eventos y se decide cuanto avanza los peones del bot.
